@@ -1,0 +1,611 @@
+reference_no,start_year,end_year,publish_year,country,region,latitude,longitude,pollinator_order,pollinator_family,pollinator_species,study_method,trend,decline_value,sample_size,yi,vi,continent,driver
+H1,1900,2007,2009,USA,Illinois,39.9858,-89.2089,Hymenoptera,Apidae,Bombus affinis,Historical  + Field,Decline,-0.33,50,-0.4004775665971253,0.02,North America,Multiple
+H1,1900,2007,2009,USA,Illinois,39.9858,-89.2089,Hymenoptera,Apidae,Bombus affinis,Historical  + Field,Decline,-0.33,50,-0.4004775665971253,0.02,North America,Habitat
+H1,1900,2007,2009,USA,Illinois,39.9858,-89.2089,Hymenoptera,Apidae,Bombus affinis,Historical  + Field,Decline,-0.33,50,-0.4004775665971253,0.02,North America,Pesticides
+H1,1900,2007,2009,USA,Illinois,39.9858,-89.2089,Hymenoptera,Apidae,Bombus affinis,Historical  + Field,Decline,-0.33,50,-0.4004775665971253,0.02,North America,Pathogens
+H1,1900,2007,2009,USA,Illinois,39.9858,-89.2089,Hymenoptera,Apidae,Bombus fraternus,Historical  + Field,Decline,-0.33,4,-0.4004775665971253,0.25,North America,Multiple
+H1,1900,2007,2009,USA,Illinois,39.9858,-89.2089,Hymenoptera,Apidae,Bombus fraternus,Historical  + Field,Decline,-0.33,4,-0.4004775665971253,0.25,North America,Habitat
+H1,1900,2007,2009,USA,Illinois,39.9858,-89.2089,Hymenoptera,Apidae,Bombus fraternus,Historical  + Field,Decline,-0.33,4,-0.4004775665971253,0.25,North America,Pesticides
+H1,1900,2007,2009,USA,Illinois,39.9858,-89.2089,Hymenoptera,Apidae,Bombus fraternus,Historical  + Field,Decline,-0.33,4,-0.4004775665971253,0.25,North America,Pathogens
+H1,1900,2007,2009,USA,Illinois,39.9858,-89.2089,Hymenoptera,Apidae,Bombus pensylvanicus,Historical  + Field,Decline,-0.33,160,-0.4004775665971253,0.00625,North America,Multiple
+H1,1900,2007,2009,USA,Illinois,39.9858,-89.2089,Hymenoptera,Apidae,Bombus pensylvanicus,Historical  + Field,Decline,-0.33,160,-0.4004775665971253,0.00625,North America,Habitat
+H1,1900,2007,2009,USA,Illinois,39.9858,-89.2089,Hymenoptera,Apidae,Bombus pensylvanicus,Historical  + Field,Decline,-0.33,160,-0.4004775665971253,0.00625,North America,Pesticides
+H1,1900,2007,2009,USA,Illinois,39.9858,-89.2089,Hymenoptera,Apidae,Bombus pensylvanicus,Historical  + Field,Decline,-0.33,160,-0.4004775665971253,0.00625,North America,Pathogens
+H1,1900,2007,2009,USA,Illinois,39.9858,-89.2089,Hymenoptera,Apidae,Bombus vagans,Historical  + Field,Decline,-0.33,91,-0.4004775665971253,0.0109890109890109,North America,Multiple
+H1,1900,2007,2009,USA,Illinois,39.9858,-89.2089,Hymenoptera,Apidae,Bombus vagans,Historical  + Field,Decline,-0.33,91,-0.4004775665971253,0.0109890109890109,North America,Habitat
+H1,1900,2007,2009,USA,Illinois,39.9858,-89.2089,Hymenoptera,Apidae,Bombus vagans,Historical  + Field,Decline,-0.33,91,-0.4004775665971253,0.0109890109890109,North America,Pesticides
+H1,1900,2007,2009,USA,Illinois,39.9858,-89.2089,Hymenoptera,Apidae,Bombus vagans,Historical  + Field,Decline,-0.33,91,-0.4004775665971253,0.0109890109890109,North America,Pathogens
+H9,1864,2009,2012,"USA, Canada",Eastern Nearctic,43.0,-79.0,Hymenoptera,Apidae,Bombus affinis,Historical,Decline,-0.735,1563,-1.328025453,0.00064,North America,Multiple
+H9,1864,2009,2012,"USA, Canada",Eastern Nearctic,43.0,-79.0,Hymenoptera,Apidae,Bombus affinis,Historical,Decline,-0.735,1563,-1.328025453,0.00064,North America,Habitat
+H9,1864,2009,2012,"USA, Canada",Eastern Nearctic,43.0,-79.0,Hymenoptera,Apidae,Bombus affinis,Historical,Decline,-0.735,1563,-1.328025453,0.00064,North America,Pathogens
+H9,1864,2009,2012,"USA, Canada",Eastern Nearctic,43.0,-79.0,Hymenoptera,Apidae,Bombus affinis,Historical,Decline,-0.735,1563,-1.328025453,0.00064,North America,Climate
+H9,1864,2009,2012,"USA, Canada",Eastern Nearctic,43.0,-79.0,Hymenoptera,Apidae,Bombus ashtoni,Historical,Decline,-0.653,941,-1.058430499,0.001062699,North America,Multiple
+H9,1864,2009,2012,"USA, Canada",Eastern Nearctic,43.0,-79.0,Hymenoptera,Apidae,Bombus ashtoni,Historical,Decline,-0.653,941,-1.058430499,0.001062699,North America,Habitat
+H9,1864,2009,2012,"USA, Canada",Eastern Nearctic,43.0,-79.0,Hymenoptera,Apidae,Bombus ashtoni,Historical,Decline,-0.653,941,-1.058430499,0.001062699,North America,Pathogens
+H9,1864,2009,2012,"USA, Canada",Eastern Nearctic,43.0,-79.0,Hymenoptera,Apidae,Bombus auricomus,Historical,Decline,-0.508,493,-0.709276562,0.002028398,North America,Multiple
+H9,1864,2009,2012,"USA, Canada",Eastern Nearctic,43.0,-79.0,Hymenoptera,Apidae,Bombus auricomus,Historical,Decline,-0.508,493,-0.709276562,0.002028398,North America,Habitat
+H9,1864,2009,2012,"USA, Canada",Eastern Nearctic,43.0,-79.0,Hymenoptera,Apidae,Bombus auricomus,Historical,Decline,-0.508,493,-0.709276562,0.002028398,North America,Pathogens
+H9,1864,2009,2012,"USA, Canada",Eastern Nearctic,43.0,-79.0,Hymenoptera,Apidae,Bombus fernaldae,Historical,Decline,-0.767,474,-1.456716825,0.002109705,North America,Multiple
+H9,1864,2009,2012,"USA, Canada",Eastern Nearctic,43.0,-79.0,Hymenoptera,Apidae,Bombus fernaldae,Historical,Decline,-0.767,474,-1.456716825,0.002109705,North America,Habitat
+H9,1864,2009,2012,"USA, Canada",Eastern Nearctic,43.0,-79.0,Hymenoptera,Apidae,Bombus fernaldae,Historical,Decline,-0.767,474,-1.456716825,0.002109705,North America,Pathogens
+H9,1864,2009,2012,"USA, Canada",Eastern Nearctic,43.0,-79.0,Hymenoptera,Apidae,Bombus fernaldae,Historical,Decline,-0.767,474,-1.456716825,0.002109705,North America,Climate
+H9,1864,2009,2012,"USA, Canada",Eastern Nearctic,43.0,-79.0,Hymenoptera,Apidae,Bombus fervidus,Historical,Decline,-0.448,3937,-0.594207233,0.000254,North America,Multiple
+H9,1864,2009,2012,"USA, Canada",Eastern Nearctic,43.0,-79.0,Hymenoptera,Apidae,Bombus fervidus,Historical,Decline,-0.448,3937,-0.594207233,0.000254,North America,Habitat
+H9,1864,2009,2012,"USA, Canada",Eastern Nearctic,43.0,-79.0,Hymenoptera,Apidae,Bombus fervidus,Historical,Decline,-0.448,3937,-0.594207233,0.000254,North America,Pathogens
+H9,1864,2009,2012,"USA, Canada",Eastern Nearctic,43.0,-79.0,Hymenoptera,Apidae,Bombus fervidus,Historical,Decline,-0.448,3937,-0.594207233,0.000254,North America,Climate
+H9,1864,2009,2012,"USA, Canada",Eastern Nearctic,43.0,-79.0,Hymenoptera,Apidae,Bombus fraternus,Historical,Decline,-0.727,145,-1.298283484,0.006896552,North America,Multiple
+H9,1864,2009,2012,"USA, Canada",Eastern Nearctic,43.0,-79.0,Hymenoptera,Apidae,Bombus fraternus,Historical,Decline,-0.727,145,-1.298283484,0.006896552,North America,Habitat
+H9,1864,2009,2012,"USA, Canada",Eastern Nearctic,43.0,-79.0,Hymenoptera,Apidae,Bombus fraternus,Historical,Decline,-0.727,145,-1.298283484,0.006896552,North America,Pathogens
+H9,1864,2009,2012,"USA, Canada",Eastern Nearctic,43.0,-79.0,Hymenoptera,Apidae,Bombus fraternus,Historical,Decline,-0.727,145,-1.298283484,0.006896552,North America,Climate
+H9,1864,2009,2012,"USA, Canada",Eastern Nearctic,43.0,-79.0,Hymenoptera,Apidae,Bombus frigidus,Historical,Decline,-0.429,1830,-0.560366069,0.000546,North America,Multiple
+H9,1864,2009,2012,"USA, Canada",Eastern Nearctic,43.0,-79.0,Hymenoptera,Apidae,Bombus frigidus,Historical,Decline,-0.429,1830,-0.560366069,0.000546,North America,Habitat
+H9,1864,2009,2012,"USA, Canada",Eastern Nearctic,43.0,-79.0,Hymenoptera,Apidae,Bombus frigidus,Historical,Decline,-0.429,1830,-0.560366069,0.000546,North America,Pathogens
+H9,1864,2009,2012,"USA, Canada",Eastern Nearctic,43.0,-79.0,Hymenoptera,Apidae,Bombus frigidus,Historical,Decline,-0.429,1830,-0.560366069,0.000546,North America,Climate
+H9,1864,2009,2012,"USA, Canada",Eastern Nearctic,43.0,-79.0,Hymenoptera,Apidae,Bombus griseocollis,Historical,Decline,-0.278,2870,-0.32573014,0.000348,North America,Multiple
+H9,1864,2009,2012,"USA, Canada",Eastern Nearctic,43.0,-79.0,Hymenoptera,Apidae,Bombus griseocollis,Historical,Decline,-0.278,2870,-0.32573014,0.000348,North America,Habitat
+H9,1864,2009,2012,"USA, Canada",Eastern Nearctic,43.0,-79.0,Hymenoptera,Apidae,Bombus griseocollis,Historical,Decline,-0.278,2870,-0.32573014,0.000348,North America,Pathogens
+H9,1864,2009,2012,"USA, Canada",Eastern Nearctic,43.0,-79.0,Hymenoptera,Apidae,Bombus griseocollis,Historical,Decline,-0.278,2870,-0.32573014,0.000348,North America,Climate
+H9,1864,2009,2012,"USA, Canada",Eastern Nearctic,43.0,-79.0,Hymenoptera,Apidae,Bombus insularis,Historical,Decline,-0.556,1025,-0.811930717,0.000976,North America,Multiple
+H9,1864,2009,2012,"USA, Canada",Eastern Nearctic,43.0,-79.0,Hymenoptera,Apidae,Bombus insularis,Historical,Decline,-0.556,1025,-0.811930717,0.000976,North America,Habitat
+H9,1864,2009,2012,"USA, Canada",Eastern Nearctic,43.0,-79.0,Hymenoptera,Apidae,Bombus insularis,Historical,Decline,-0.556,1025,-0.811930717,0.000976,North America,Pathogens
+H9,1864,2009,2012,"USA, Canada",Eastern Nearctic,43.0,-79.0,Hymenoptera,Apidae,Bombus insularis,Historical,Decline,-0.556,1025,-0.811930717,0.000976,North America,Climate
+H9,1864,2009,2012,"USA, Canada",Eastern Nearctic,43.0,-79.0,Hymenoptera,Apidae,Bombus pensylvanicus,Historical,Decline,-0.656,2024,-1.067113622,0.000494,North America,Multiple
+H9,1864,2009,2012,"USA, Canada",Eastern Nearctic,43.0,-79.0,Hymenoptera,Apidae,Bombus pensylvanicus,Historical,Decline,-0.656,2024,-1.067113622,0.000494,North America,Habitat
+H9,1864,2009,2012,"USA, Canada",Eastern Nearctic,43.0,-79.0,Hymenoptera,Apidae,Bombus pensylvanicus,Historical,Decline,-0.656,2024,-1.067113622,0.000494,North America,Pathogens
+H9,1864,2009,2012,"USA, Canada",Eastern Nearctic,43.0,-79.0,Hymenoptera,Apidae,Bombus pensylvanicus,Historical,Decline,-0.656,2024,-1.067113622,0.000494,North America,Climate
+H9,1864,2009,2012,"USA, Canada",Eastern Nearctic,43.0,-79.0,Hymenoptera,Apidae,Bombus perplexus,Historical,Stable,-0.369,1735,-0.460449416,0.000576,North America,Multiple
+H9,1864,2009,2012,"USA, Canada",Eastern Nearctic,43.0,-79.0,Hymenoptera,Apidae,Bombus perplexus,Historical,Stable,-0.369,1735,-0.460449416,0.000576,North America,Habitat
+H9,1864,2009,2012,"USA, Canada",Eastern Nearctic,43.0,-79.0,Hymenoptera,Apidae,Bombus perplexus,Historical,Stable,-0.369,1735,-0.460449416,0.000576,North America,Pathogens
+H9,1864,2009,2012,"USA, Canada",Eastern Nearctic,43.0,-79.0,Hymenoptera,Apidae,Bombus perplexus,Historical,Stable,-0.369,1735,-0.460449416,0.000576,North America,Climate
+H9,1864,2009,2012,"USA, Canada",Eastern Nearctic,43.0,-79.0,Hymenoptera,Apidae,Bombus sandersoni,Historical,Decline,-0.732,472,-1.316768298,0.002118644,North America,Multiple
+H9,1864,2009,2012,"USA, Canada",Eastern Nearctic,43.0,-79.0,Hymenoptera,Apidae,Bombus sandersoni,Historical,Decline,-0.732,472,-1.316768298,0.002118644,North America,Habitat
+H9,1864,2009,2012,"USA, Canada",Eastern Nearctic,43.0,-79.0,Hymenoptera,Apidae,Bombus sandersoni,Historical,Decline,-0.732,472,-1.316768298,0.002118644,North America,Pathogens
+H9,1864,2009,2012,"USA, Canada",Eastern Nearctic,43.0,-79.0,Hymenoptera,Apidae,Bombus sandersoni,Historical,Decline,-0.732,472,-1.316768298,0.002118644,North America,Climate
+H9,1864,2009,2012,"USA, Canada",Eastern Nearctic,43.0,-79.0,Hymenoptera,Apidae,Bombus ternarius,Historical,Decline,-0.278,2502,-0.32573014,0.0004,North America,Multiple
+H9,1864,2009,2012,"USA, Canada",Eastern Nearctic,43.0,-79.0,Hymenoptera,Apidae,Bombus ternarius,Historical,Decline,-0.278,2502,-0.32573014,0.0004,North America,Habitat
+H9,1864,2009,2012,"USA, Canada",Eastern Nearctic,43.0,-79.0,Hymenoptera,Apidae,Bombus ternarius,Historical,Decline,-0.278,2502,-0.32573014,0.0004,North America,Pathogens
+H9,1864,2009,2012,"USA, Canada",Eastern Nearctic,43.0,-79.0,Hymenoptera,Apidae,Bombus ternarius,Historical,Decline,-0.278,2502,-0.32573014,0.0004,North America,Climate
+H9,1864,2009,2012,"USA, Canada",Eastern Nearctic,43.0,-79.0,Hymenoptera,Apidae,Bombus terricola,Historical,Decline,-0.482,3724,-0.657780037,0.000269,North America,Multiple
+H9,1864,2009,2012,"USA, Canada",Eastern Nearctic,43.0,-79.0,Hymenoptera,Apidae,Bombus terricola,Historical,Decline,-0.482,3724,-0.657780037,0.000269,North America,Habitat
+H9,1864,2009,2012,"USA, Canada",Eastern Nearctic,43.0,-79.0,Hymenoptera,Apidae,Bombus terricola,Historical,Decline,-0.482,3724,-0.657780037,0.000269,North America,Pathogens
+H9,1864,2009,2012,"USA, Canada",Eastern Nearctic,43.0,-79.0,Hymenoptera,Apidae,Bombus terricola,Historical,Decline,-0.482,3724,-0.657780037,0.000269,North America,Climate
+H9,1864,2009,2012,"USA, Canada",Eastern Nearctic,43.0,-79.0,Hymenoptera,Apidae,Bombus vagans,Historical,Decline,-0.369,3965,-0.460449416,0.000252,North America,Multiple
+H9,1864,2009,2012,"USA, Canada",Eastern Nearctic,43.0,-79.0,Hymenoptera,Apidae,Bombus vagans,Historical,Decline,-0.369,3965,-0.460449416,0.000252,North America,Habitat
+H9,1864,2009,2012,"USA, Canada",Eastern Nearctic,43.0,-79.0,Hymenoptera,Apidae,Bombus vagans,Historical,Decline,-0.369,3965,-0.460449416,0.000252,North America,Pathogens
+H9,1864,2009,2012,"USA, Canada",Eastern Nearctic,43.0,-79.0,Hymenoptera,Apidae,Bombus vagans,Historical,Decline,-0.369,3965,-0.460449416,0.000252,North America,Climate
+H13,1999,2014,2016,USA,Coastal California ,36.6706,-121.5903,Hymenoptera,Apidae,Bombus spp. (B. vosnesenskii / B. caliginosus complex),Field,Decline,-0.11,85,-0.116533816,0.011764706,North America,Multiple
+H13,1999,2014,2016,USA,Coastal California ,36.6706,-121.5903,Hymenoptera,Apidae,Bombus spp. (B. vosnesenskii / B. caliginosus complex),Field,Decline,-0.11,85,-0.116533816,0.011764706,North America,Climate
+H23,2013,2017,2020,Panama,Darien NP,8.0178,-77.7327,Hymenoptera,Apidae,Euglossa imperialis,Field,Decline,-0.38,786,-0.478035801,0.001272265,North America,Multiple
+H23,2013,2017,2020,Panama,Darien NP,8.0178,-77.7327,Hymenoptera,Apidae,Euglossa imperialis,Field,Decline,-0.38,786,-0.478035801,0.001272265,North America,Climate
+H23,2013,2017,2020,Panama,Darien NP,8.0178,-77.7327,Hymenoptera,Apidae,Euglossa imperialis,Field,Decline,-0.38,786,-0.478035801,0.001272265,North America,Pesticides
+H23,2013,2017,2020,Panama,Darien NP,8.0178,-77.7327,Hymenoptera,Apidae,Euglossa imperialis,Field,Decline,-0.38,786,-0.478035801,0.001272265,North America,Urbanization
+H23,2013,2017,2020,Panama,Darien NP,8.0178,-77.7327,Hymenoptera,Apidae,Euglossa tridentata,Field,Decline,-0.65,693,-1.049822124,0.001443001,North America,Multiple
+H23,2013,2017,2020,Panama,Darien NP,8.0178,-77.7327,Hymenoptera,Apidae,Euglossa tridentata,Field,Decline,-0.65,693,-1.049822124,0.001443001,North America,Climate
+H23,2013,2017,2020,Panama,Darien NP,8.0178,-77.7327,Hymenoptera,Apidae,Euglossa tridentata,Field,Decline,-0.65,693,-1.049822124,0.001443001,North America,Pesticides
+H23,2013,2017,2020,Panama,Darien NP,8.0178,-77.7327,Hymenoptera,Apidae,Euglossa tridentata,Field,Decline,-0.65,693,-1.049822124,0.001443001,North America,Urbanization
+H23,2013,2017,2020,Panama,Darien NP,8.0178,-77.7327,Hymenoptera,Apidae,Euglossa hansoni,Field,Decline,-0.6,294,-0.916290732,0.003401361,North America,Multiple
+H23,2013,2017,2020,Panama,Darien NP,8.0178,-77.7327,Hymenoptera,Apidae,Euglossa hansoni,Field,Decline,-0.6,294,-0.916290732,0.003401361,North America,Climate
+H23,2013,2017,2020,Panama,Darien NP,8.0178,-77.7327,Hymenoptera,Apidae,Euglossa hansoni,Field,Decline,-0.6,294,-0.916290732,0.003401361,North America,Pesticides
+H23,2013,2017,2020,Panama,Darien NP,8.0178,-77.7327,Hymenoptera,Apidae,Euglossa hansoni,Field,Decline,-0.6,294,-0.916290732,0.003401361,North America,Urbanization
+H23,2013,2017,2020,Panama,Darien NP,8.0178,-77.7327,Hymenoptera,Apidae,Euglossa deceptrix,Field,Decline,-0.3,281,-0.356674944,0.003558719,North America,Multiple
+H23,2013,2017,2020,Panama,Darien NP,8.0178,-77.7327,Hymenoptera,Apidae,Euglossa deceptrix,Field,Decline,-0.3,281,-0.356674944,0.003558719,North America,Climate
+H23,2013,2017,2020,Panama,Darien NP,8.0178,-77.7327,Hymenoptera,Apidae,Euglossa deceptrix,Field,Decline,-0.3,281,-0.356674944,0.003558719,North America,Pesticides
+H23,2013,2017,2020,Panama,Darien NP,8.0178,-77.7327,Hymenoptera,Apidae,Euglossa deceptrix,Field,Decline,-0.3,281,-0.356674944,0.003558719,North America,Urbanization
+H23,2013,2017,2020,Panama,Darien NP,8.0178,-77.7327,Hymenoptera,Apidae,Euglossa variabilis,Field,Decline,-0.35,235,-0.430782916,0.004255319,North America,Multiple
+H23,2013,2017,2020,Panama,Darien NP,8.0178,-77.7327,Hymenoptera,Apidae,Euglossa variabilis,Field,Decline,-0.35,235,-0.430782916,0.004255319,North America,Climate
+H23,2013,2017,2020,Panama,Darien NP,8.0178,-77.7327,Hymenoptera,Apidae,Euglossa variabilis,Field,Decline,-0.35,235,-0.430782916,0.004255319,North America,Pesticides
+H23,2013,2017,2020,Panama,Darien NP,8.0178,-77.7327,Hymenoptera,Apidae,Euglossa variabilis,Field,Decline,-0.35,235,-0.430782916,0.004255319,North America,Urbanization
+H23,2013,2017,2020,Panama,Darien NP,8.0178,-77.7327,Hymenoptera,Apidae,Euglossa despecta,Field,Decline,-0.55,121,-0.798507696,0.008264463,North America,Multiple
+H23,2013,2017,2020,Panama,Darien NP,8.0178,-77.7327,Hymenoptera,Apidae,Euglossa despecta,Field,Decline,-0.55,121,-0.798507696,0.008264463,North America,Climate
+H23,2013,2017,2020,Panama,Darien NP,8.0178,-77.7327,Hymenoptera,Apidae,Euglossa despecta,Field,Decline,-0.55,121,-0.798507696,0.008264463,North America,Pesticides
+H23,2013,2017,2020,Panama,Darien NP,8.0178,-77.7327,Hymenoptera,Apidae,Euglossa despecta,Field,Decline,-0.55,121,-0.798507696,0.008264463,North America,Urbanization
+H23,2013,2017,2020,Panama,Darien NP,8.0178,-77.7327,Hymenoptera,Apidae,Euglossa ignita,Field,Decline,-0.4,105,-0.510825624,0.00952381,North America,Multiple
+H23,2013,2017,2020,Panama,Darien NP,8.0178,-77.7327,Hymenoptera,Apidae,Euglossa ignita,Field,Decline,-0.4,105,-0.510825624,0.00952381,North America,Climate
+H23,2013,2017,2020,Panama,Darien NP,8.0178,-77.7327,Hymenoptera,Apidae,Euglossa ignita,Field,Decline,-0.4,105,-0.510825624,0.00952381,North America,Pesticides
+H23,2013,2017,2020,Panama,Darien NP,8.0178,-77.7327,Hymenoptera,Apidae,Euglossa ignita,Field,Decline,-0.4,105,-0.510825624,0.00952381,North America,Urbanization
+H23,2013,2017,2020,Panama,Darien NP,8.0178,-77.7327,Hymenoptera,Apidae,Euglossa flammea,Field,Decline,-0.7,99,-1.203972804325936,0.0101010101010101,North America,Multiple
+H23,2013,2017,2020,Panama,Darien NP,8.0178,-77.7327,Hymenoptera,Apidae,Euglossa flammea,Field,Decline,-0.7,99,-1.203972804325936,0.0101010101010101,North America,Climate
+H23,2013,2017,2020,Panama,Darien NP,8.0178,-77.7327,Hymenoptera,Apidae,Euglossa flammea,Field,Decline,-0.7,99,-1.203972804325936,0.0101010101010101,North America,Pesticides
+H23,2013,2017,2020,Panama,Darien NP,8.0178,-77.7327,Hymenoptera,Apidae,Euglossa flammea,Field,Decline,-0.7,99,-1.203972804325936,0.0101010101010101,North America,Urbanization
+H23,2013,2017,2020,Panama,Darien NP,8.0178,-77.7327,Hymenoptera,Apidae,Euglossa gorgonensis,Field,Decline,-0.65,73,-1.0498221244986778,0.0136986301369863,North America,Multiple
+H23,2013,2017,2020,Panama,Darien NP,8.0178,-77.7327,Hymenoptera,Apidae,Euglossa gorgonensis,Field,Decline,-0.65,73,-1.0498221244986778,0.0136986301369863,North America,Climate
+H23,2013,2017,2020,Panama,Darien NP,8.0178,-77.7327,Hymenoptera,Apidae,Euglossa gorgonensis,Field,Decline,-0.65,73,-1.0498221244986778,0.0136986301369863,North America,Pesticides
+H23,2013,2017,2020,Panama,Darien NP,8.0178,-77.7327,Hymenoptera,Apidae,Euglossa gorgonensis,Field,Decline,-0.65,73,-1.0498221244986778,0.0136986301369863,North America,Urbanization
+H23,2013,2017,2020,Panama,Darien NP,8.0178,-77.7327,Hymenoptera,Apidae,Euglossa bursigera,Field,Decline,-0.35,67,-0.4307829160924542,0.0149253731343283,North America,Multiple
+H23,2013,2017,2020,Panama,Darien NP,8.0178,-77.7327,Hymenoptera,Apidae,Euglossa bursigera,Field,Decline,-0.35,67,-0.4307829160924542,0.0149253731343283,North America,Climate
+H23,2013,2017,2020,Panama,Darien NP,8.0178,-77.7327,Hymenoptera,Apidae,Euglossa bursigera,Field,Decline,-0.35,67,-0.4307829160924542,0.0149253731343283,North America,Pesticides
+H23,2013,2017,2020,Panama,Darien NP,8.0178,-77.7327,Hymenoptera,Apidae,Euglossa bursigera,Field,Decline,-0.35,67,-0.4307829160924542,0.0149253731343283,North America,Urbanization
+H23,2013,2017,2020,Panama,Darien NP,8.0178,-77.7327,Hymenoptera,Apidae,Euglossa sapphirina,Field,Decline,-0.55,44,-0.7985076962177717,0.0227272727272727,North America,Multiple
+H23,2013,2017,2020,Panama,Darien NP,8.0178,-77.7327,Hymenoptera,Apidae,Euglossa sapphirina,Field,Decline,-0.55,44,-0.7985076962177717,0.0227272727272727,North America,Climate
+H23,2013,2017,2020,Panama,Darien NP,8.0178,-77.7327,Hymenoptera,Apidae,Euglossa sapphirina,Field,Decline,-0.55,44,-0.7985076962177717,0.0227272727272727,North America,Pesticides
+H23,2013,2017,2020,Panama,Darien NP,8.0178,-77.7327,Hymenoptera,Apidae,Euglossa sapphirina,Field,Decline,-0.55,44,-0.7985076962177717,0.0227272727272727,North America,Urbanization
+H23,2013,2017,2020,Panama,Darien NP,8.0178,-77.7327,Hymenoptera,Apidae,Euglossa cyanaspis,Field,Decline,-0.9,36,-2.302585092994046,0.0277777777777777,North America,Multiple
+H23,2013,2017,2020,Panama,Darien NP,8.0178,-77.7327,Hymenoptera,Apidae,Euglossa cyanaspis,Field,Decline,-0.9,36,-2.302585092994046,0.0277777777777777,North America,Climate
+H23,2013,2017,2020,Panama,Darien NP,8.0178,-77.7327,Hymenoptera,Apidae,Euglossa cyanaspis,Field,Decline,-0.9,36,-2.302585092994046,0.0277777777777777,North America,Pesticides
+H23,2013,2017,2020,Panama,Darien NP,8.0178,-77.7327,Hymenoptera,Apidae,Euglossa cyanaspis,Field,Decline,-0.9,36,-2.302585092994046,0.0277777777777777,North America,Urbanization
+H23,2013,2017,2020,Panama,Darien NP,8.0178,-77.7327,Hymenoptera,Apidae,Euglossa heterosticta,Field,Decline,-0.2,36,-0.223143551,0.027777778,North America,Multiple
+H23,2013,2017,2020,Panama,Darien NP,8.0178,-77.7327,Hymenoptera,Apidae,Euglossa heterosticta,Field,Decline,-0.2,36,-0.223143551,0.027777778,North America,Climate
+H23,2013,2017,2020,Panama,Darien NP,8.0178,-77.7327,Hymenoptera,Apidae,Euglossa heterosticta,Field,Decline,-0.2,36,-0.223143551,0.027777778,North America,Pesticides
+H23,2013,2017,2020,Panama,Darien NP,8.0178,-77.7327,Hymenoptera,Apidae,Euglossa heterosticta,Field,Decline,-0.2,36,-0.223143551,0.027777778,North America,Urbanization
+H23,2013,2017,2020,Panama,Darien NP,8.0178,-77.7327,Hymenoptera,Apidae,Euglossa dissimula,Field,Decline,-0.75,30,-1.3862943611198906,0.0333333333333333,North America,Multiple
+H23,2013,2017,2020,Panama,Darien NP,8.0178,-77.7327,Hymenoptera,Apidae,Euglossa dissimula,Field,Decline,-0.75,30,-1.3862943611198906,0.0333333333333333,North America,Climate
+H23,2013,2017,2020,Panama,Darien NP,8.0178,-77.7327,Hymenoptera,Apidae,Euglossa dissimula,Field,Decline,-0.75,30,-1.3862943611198906,0.0333333333333333,North America,Pesticides
+H23,2013,2017,2020,Panama,Darien NP,8.0178,-77.7327,Hymenoptera,Apidae,Euglossa dissimula,Field,Decline,-0.75,30,-1.3862943611198906,0.0333333333333333,North America,Urbanization
+H23,2013,2017,2020,Panama,Darien NP,8.0178,-77.7327,Hymenoptera,Apidae,Euglossa dodsoni,Field,Decline,-0.9,27,-2.302585092994046,0.037037037037037,North America,Multiple
+H23,2013,2017,2020,Panama,Darien NP,8.0178,-77.7327,Hymenoptera,Apidae,Euglossa dodsoni,Field,Decline,-0.9,27,-2.302585092994046,0.037037037037037,North America,Climate
+H23,2013,2017,2020,Panama,Darien NP,8.0178,-77.7327,Hymenoptera,Apidae,Euglossa dodsoni,Field,Decline,-0.9,27,-2.302585092994046,0.037037037037037,North America,Pesticides
+H23,2013,2017,2020,Panama,Darien NP,8.0178,-77.7327,Hymenoptera,Apidae,Euglossa dodsoni,Field,Decline,-0.9,27,-2.302585092994046,0.037037037037037,North America,Urbanization
+H23,2013,2017,2020,Panama,Darien NP,8.0178,-77.7327,Hymenoptera,Apidae,Euglossa allosticta,Field,Decline,-0.8,26,-1.6094379124341005,0.0384615384615384,North America,Multiple
+H23,2013,2017,2020,Panama,Darien NP,8.0178,-77.7327,Hymenoptera,Apidae,Euglossa allosticta,Field,Decline,-0.8,26,-1.6094379124341005,0.0384615384615384,North America,Climate
+H23,2013,2017,2020,Panama,Darien NP,8.0178,-77.7327,Hymenoptera,Apidae,Euglossa allosticta,Field,Decline,-0.8,26,-1.6094379124341005,0.0384615384615384,North America,Pesticides
+H23,2013,2017,2020,Panama,Darien NP,8.0178,-77.7327,Hymenoptera,Apidae,Euglossa allosticta,Field,Decline,-0.8,26,-1.6094379124341005,0.0384615384615384,North America,Urbanization
+H23,2013,2017,2020,Panama,Darien NP,8.0178,-77.7327,Hymenoptera,Apidae,Euglossa asarophora,Field,Decline,-0.7,13,-1.203972804325936,0.0769230769230769,North America,Multiple
+H23,2013,2017,2020,Panama,Darien NP,8.0178,-77.7327,Hymenoptera,Apidae,Euglossa asarophora,Field,Decline,-0.7,13,-1.203972804325936,0.0769230769230769,North America,Climate
+H23,2013,2017,2020,Panama,Darien NP,8.0178,-77.7327,Hymenoptera,Apidae,Euglossa asarophora,Field,Decline,-0.7,13,-1.203972804325936,0.0769230769230769,North America,Pesticides
+H23,2013,2017,2020,Panama,Darien NP,8.0178,-77.7327,Hymenoptera,Apidae,Euglossa asarophora,Field,Decline,-0.7,13,-1.203972804325936,0.0769230769230769,North America,Urbanization
+H23,2013,2017,2020,Panama,Darien NP,8.0178,-77.7327,Hymenoptera,Apidae,Euglossa mixta,Field,Decline,-0.85,12,-1.897119984885881,0.0833333333333333,North America,Multiple
+H23,2013,2017,2020,Panama,Darien NP,8.0178,-77.7327,Hymenoptera,Apidae,Euglossa mixta,Field,Decline,-0.85,12,-1.897119984885881,0.0833333333333333,North America,Climate
+H23,2013,2017,2020,Panama,Darien NP,8.0178,-77.7327,Hymenoptera,Apidae,Euglossa mixta,Field,Decline,-0.85,12,-1.897119984885881,0.0833333333333333,North America,Pesticides
+H23,2013,2017,2020,Panama,Darien NP,8.0178,-77.7327,Hymenoptera,Apidae,Euglossa mixta,Field,Decline,-0.85,12,-1.897119984885881,0.0833333333333333,North America,Urbanization
+H23,2013,2017,2020,Panama,Darien NP,8.0178,-77.7327,Hymenoptera,Apidae,Euglossa crassipunctata,Field,Recovery,0.1,9,0.0953101798043248,0.1111111111111111,North America,Multiple
+H23,2013,2017,2020,Panama,Darien NP,8.0178,-77.7327,Hymenoptera,Apidae,Euglossa crassipunctata,Field,Recovery,0.1,9,0.0953101798043248,0.1111111111111111,North America,Climate
+H23,2013,2017,2020,Panama,Darien NP,8.0178,-77.7327,Hymenoptera,Apidae,Euglossa crassipunctata,Field,Recovery,0.1,9,0.0953101798043248,0.1111111111111111,North America,Pesticides
+H23,2013,2017,2020,Panama,Darien NP,8.0178,-77.7327,Hymenoptera,Apidae,Euglossa crassipunctata,Field,Recovery,0.1,9,0.0953101798043248,0.1111111111111111,North America,Urbanization
+H23,2013,2017,2020,Panama,Darien NP,8.0178,-77.7327,Hymenoptera,Apidae,Euglossa dressleri,Field,Decline,-0.8,8,-1.6094379124341005,0.125,North America,Multiple
+H23,2013,2017,2020,Panama,Darien NP,8.0178,-77.7327,Hymenoptera,Apidae,Euglossa dressleri,Field,Decline,-0.8,8,-1.6094379124341005,0.125,North America,Climate
+H23,2013,2017,2020,Panama,Darien NP,8.0178,-77.7327,Hymenoptera,Apidae,Euglossa dressleri,Field,Decline,-0.8,8,-1.6094379124341005,0.125,North America,Pesticides
+H23,2013,2017,2020,Panama,Darien NP,8.0178,-77.7327,Hymenoptera,Apidae,Euglossa dressleri,Field,Decline,-0.8,8,-1.6094379124341005,0.125,North America,Urbanization
+H23,2013,2017,2020,Panama,Darien NP,8.0178,-77.7327,Hymenoptera,Apidae,Euglossa championi,Field,Decline,-0.85,7,-1.897119984885881,0.1428571428571428,North America,Multiple
+H23,2013,2017,2020,Panama,Darien NP,8.0178,-77.7327,Hymenoptera,Apidae,Euglossa championi,Field,Decline,-0.85,7,-1.897119984885881,0.1428571428571428,North America,Climate
+H23,2013,2017,2020,Panama,Darien NP,8.0178,-77.7327,Hymenoptera,Apidae,Euglossa championi,Field,Decline,-0.85,7,-1.897119984885881,0.1428571428571428,North America,Pesticides
+H23,2013,2017,2020,Panama,Darien NP,8.0178,-77.7327,Hymenoptera,Apidae,Euglossa championi,Field,Decline,-0.85,7,-1.897119984885881,0.1428571428571428,North America,Urbanization
+H23,2013,2017,2020,Panama,Darien NP,8.0178,-77.7327,Hymenoptera,Apidae,Euglossa turbinifex,Field,Decline,0.4,3,0.3364722366212129,0.3333333333333333,North America,Multiple
+H23,2013,2017,2020,Panama,Darien NP,8.0178,-77.7327,Hymenoptera,Apidae,Euglossa turbinifex,Field,Decline,0.4,3,0.3364722366212129,0.3333333333333333,North America,Climate
+H23,2013,2017,2020,Panama,Darien NP,8.0178,-77.7327,Hymenoptera,Apidae,Euglossa turbinifex,Field,Decline,0.4,3,0.3364722366212129,0.3333333333333333,North America,Pesticides
+H23,2013,2017,2020,Panama,Darien NP,8.0178,-77.7327,Hymenoptera,Apidae,Euglossa turbinifex,Field,Decline,0.4,3,0.3364722366212129,0.3333333333333333,North America,Urbanization
+H23,2013,2017,2020,Panama,Darien NP,8.0178,-77.7327,Hymenoptera,Apidae,Euglossa cognata,Field,Decline,-0.9,2,-2.302585092994046,0.5,North America,Multiple
+H23,2013,2017,2020,Panama,Darien NP,8.0178,-77.7327,Hymenoptera,Apidae,Euglossa cognata,Field,Decline,-0.9,2,-2.302585092994046,0.5,North America,Climate
+H23,2013,2017,2020,Panama,Darien NP,8.0178,-77.7327,Hymenoptera,Apidae,Euglossa cognata,Field,Decline,-0.9,2,-2.302585092994046,0.5,North America,Pesticides
+H23,2013,2017,2020,Panama,Darien NP,8.0178,-77.7327,Hymenoptera,Apidae,Euglossa cognata,Field,Decline,-0.9,2,-2.302585092994046,0.5,North America,Urbanization
+H28,2004,2018,2021,USA,Southwestern Michigan,42.6,-86.0,Hymenoptera,Andrenidae,Andrena carlini,Field,Decline,-0.978,155,-3.816712826,0.006451613,North America,Climate
+H28,2004,2018,2021,USA,Southwestern Michigan,42.6,-86.0,Hymenoptera,Andrenidae,Andrena imitatrix,Field,Decline,-0.947,164,-2.937463365,0.006097561,North America,Climate
+H28,2004,2018,2021,USA,Southwestern Michigan,42.6,-86.0,Hymenoptera,Andrenidae,Andrena crataegi,Field,Decline,-0.932,78,-2.688247574,0.012820513,North America,Climate
+H28,2004,2018,2021,USA,Southwestern Michigan,42.6,-86.0,Hymenoptera,Andrenidae,Lasioglossum imitatum,Field,Decline,-0.685,193,-1.15518264,0.005181347,North America,Climate
+H28,2004,2018,2021,USA,Southwestern Michigan,42.6,-86.0,Hymenoptera,Andrenidae,Lasioglossum leucozonium,Field,Decline,-0.813,219,-1.676646662,0.00456621,North America,Climate
+H28,2004,2018,2021,USA,Southwestern Michigan,42.6,-86.0,Hymenoptera,Andrenidae,Ceratina calcarata,Field,Decline,-0.664,312,-1.090644119,0.003205128,North America,Climate
+H60,1997,2012,2017,Brazil,Atlantic Forest ,-19.1349,-40.0206,Hymenoptera,Apidae,Eulaema nigrita,Historical + Field,Decline,-0.258,227,-0.298406036,0.004405286,South America,Habitat
+H60,1997,2012,2017,Brazil,Atlantic Forest ,-19.1349,-40.0206,Hymenoptera,Apidae,Euglossa cognata,Historical + Field,Decline,-0.571,28,-0.84629836,0.035714286,South America,Habitat
+H60,1997,2012,2017,Brazil,Atlantic Forest ,-19.1349,-40.0206,Hymenoptera,Apidae,Euglossa imperialis,Historical + Field,Decline,-0.19,168,-0.210721031,0.005952381,South America,Habitat
+H60,1997,2012,2017,Brazil,Atlantic Forest ,-19.1349,-40.0206,Hymenoptera,Apidae,Euglossa marianae,Historical + Field,Increase,-0.608,214,-0.936493439,0.004672897,South America,Habitat
+H60,1997,2012,2017,Brazil,Atlantic Forest ,-19.1349,-40.0206,Hymenoptera,Apidae,Euglossa roubiki,Historical + Field,Increase,-0.389,156,-0.49265832,0.006410256,South America,Habitat
+H67,2016,2020,2021,USA,Wyoming,43.075,-107.2903,Hymenoptera,Apidae,Bombus occidentalis,Historical  + Field,Decline,-0.05,103,-0.051293294,0.009708738,North America,Multiple
+H67,2016,2020,2021,USA,Wyoming,43.075,-107.2903,Hymenoptera,Apidae,Bombus occidentalis,Historical  + Field,Decline,-0.05,103,-0.051293294,0.009708738,North America,Habitat
+H67,2016,2020,2021,USA,Wyoming,43.075,-107.2903,Hymenoptera,Apidae,Bombus occidentalis,Historical  + Field,Decline,-0.05,103,-0.051293294,0.009708738,North America,Climate
+H67,2016,2020,2021,USA,Wyoming,43.075,-107.2903,Hymenoptera,Apidae,Bombus occidentalis,Historical  + Field,Decline,-0.05,103,-0.051293294,0.009708738,North America,Pathogens
+H71,2008,2014,2019,USA,Midwest,42.032,-93.581,Hymenoptera,Apidae,Bombus auricomus,Field,Decline,-0.641,39,-1.02443289,0.025641026,North America,Multiple
+H71,2008,2014,2019,USA,Midwest,42.032,-93.581,Hymenoptera,Apidae,Bombus auricomus,Field,Decline,-0.641,39,-1.02443289,0.025641026,North America,Habitat
+H71,2008,2014,2019,USA,Midwest,42.032,-93.581,Hymenoptera,Apidae,Bombus auricomus,Field,Decline,-0.641,39,-1.02443289,0.025641026,North America,Climate
+H71,2008,2014,2019,USA,Midwest,42.032,-93.581,Hymenoptera,Apidae,Bombus auricomus,Field,Decline,-0.641,39,-1.02443289,0.025641026,North America,Pathogens
+H71,2008,2014,2019,USA,Midwest,42.032,-93.581,Hymenoptera,Apidae,Bombus bimaculatus,Field,Decline,0.367,49,0.312618558,0.020408163,North America,Multiple
+H71,2008,2014,2019,USA,Midwest,42.032,-93.581,Hymenoptera,Apidae,Bombus bimaculatus,Field,Decline,0.367,49,0.312618558,0.020408163,North America,Habitat
+H71,2008,2014,2019,USA,Midwest,42.032,-93.581,Hymenoptera,Apidae,Bombus bimaculatus,Field,Decline,0.367,49,0.312618558,0.020408163,North America,Climate
+H71,2008,2014,2019,USA,Midwest,42.032,-93.581,Hymenoptera,Apidae,Bombus bimaculatus,Field,Decline,0.367,49,0.312618558,0.020408163,North America,Pathogens
+H71,2008,2014,2019,USA,Midwest,42.032,-93.581,Hymenoptera,Apidae,Bombus borealis,Field,Decline,-0.5,54,-0.693147181,0.018518519,North America,Multiple
+H71,2008,2014,2019,USA,Midwest,42.032,-93.581,Hymenoptera,Apidae,Bombus borealis,Field,Decline,-0.5,54,-0.693147181,0.018518519,North America,Habitat
+H71,2008,2014,2019,USA,Midwest,42.032,-93.581,Hymenoptera,Apidae,Bombus borealis,Field,Decline,-0.5,54,-0.693147181,0.018518519,North America,Climate
+H71,2008,2014,2019,USA,Midwest,42.032,-93.581,Hymenoptera,Apidae,Bombus borealis,Field,Decline,-0.5,54,-0.693147181,0.018518519,North America,Pathogens
+H71,2008,2014,2019,USA,Midwest,42.032,-93.581,Hymenoptera,Apidae,Bombus fervidus,Field,Decline,-0.645,76,-1.03563749,0.013157895,North America,Multiple
+H71,2008,2014,2019,USA,Midwest,42.032,-93.581,Hymenoptera,Apidae,Bombus fervidus,Field,Decline,-0.645,76,-1.03563749,0.013157895,North America,Habitat
+H71,2008,2014,2019,USA,Midwest,42.032,-93.581,Hymenoptera,Apidae,Bombus fervidus,Field,Decline,-0.645,76,-1.03563749,0.013157895,North America,Climate
+H71,2008,2014,2019,USA,Midwest,42.032,-93.581,Hymenoptera,Apidae,Bombus fervidus,Field,Decline,-0.645,76,-1.03563749,0.013157895,North America,Pathogens
+H71,2008,2014,2019,USA,Midwest,42.032,-93.581,Hymenoptera,Apidae,Bombus griseocollis,Field,Decline,0.097,72,0.092579181,0.013888889,North America,Multiple
+H71,2008,2014,2019,USA,Midwest,42.032,-93.581,Hymenoptera,Apidae,Bombus griseocollis,Field,Decline,0.097,72,0.092579181,0.013888889,North America,Habitat
+H71,2008,2014,2019,USA,Midwest,42.032,-93.581,Hymenoptera,Apidae,Bombus griseocollis,Field,Decline,0.097,72,0.092579181,0.013888889,North America,Climate
+H71,2008,2014,2019,USA,Midwest,42.032,-93.581,Hymenoptera,Apidae,Bombus griseocollis,Field,Decline,0.097,72,0.092579181,0.013888889,North America,Pathogens
+H71,2008,2014,2019,USA,Midwest,42.032,-93.581,Hymenoptera,Apidae,Bombus impatiens,Field,Decline,0.306,62,0.266969031,0.016129032,North America,Multiple
+H71,2008,2014,2019,USA,Midwest,42.032,-93.581,Hymenoptera,Apidae,Bombus impatiens,Field,Decline,0.306,62,0.266969031,0.016129032,North America,Habitat
+H71,2008,2014,2019,USA,Midwest,42.032,-93.581,Hymenoptera,Apidae,Bombus impatiens,Field,Decline,0.306,62,0.266969031,0.016129032,North America,Climate
+H71,2008,2014,2019,USA,Midwest,42.032,-93.581,Hymenoptera,Apidae,Bombus impatiens,Field,Decline,0.306,62,0.266969031,0.016129032,North America,Pathogens
+H71,2008,2014,2019,USA,Midwest,42.032,-93.581,Hymenoptera,Apidae,Bombus pensylvanicus,Field,Increase,-0.978,45,-3.816712826,0.022222222,North America,Multiple
+H71,2008,2014,2019,USA,Midwest,42.032,-93.581,Hymenoptera,Apidae,Bombus pensylvanicus,Field,Increase,-0.978,45,-3.816712826,0.022222222,North America,Habitat
+H71,2008,2014,2019,USA,Midwest,42.032,-93.581,Hymenoptera,Apidae,Bombus pensylvanicus,Field,Increase,-0.978,45,-3.816712826,0.022222222,North America,Climate
+H71,2008,2014,2019,USA,Midwest,42.032,-93.581,Hymenoptera,Apidae,Bombus pensylvanicus,Field,Increase,-0.978,45,-3.816712826,0.022222222,North America,Pathogens
+H71,2008,2014,2019,USA,Midwest,42.032,-93.581,Hymenoptera,Apidae,Bombus perplexus,Field,Increase,-0.208,53,-0.233193887,0.018867925,North America,Multiple
+H71,2008,2014,2019,USA,Midwest,42.032,-93.581,Hymenoptera,Apidae,Bombus perplexus,Field,Increase,-0.208,53,-0.233193887,0.018867925,North America,Habitat
+H71,2008,2014,2019,USA,Midwest,42.032,-93.581,Hymenoptera,Apidae,Bombus perplexus,Field,Increase,-0.208,53,-0.233193887,0.018867925,North America,Climate
+H71,2008,2014,2019,USA,Midwest,42.032,-93.581,Hymenoptera,Apidae,Bombus perplexus,Field,Increase,-0.208,53,-0.233193887,0.018867925,North America,Pathogens
+H71,2008,2014,2019,USA,Midwest,42.032,-93.581,Hymenoptera,Apidae,Bombus ternarius,Field,Increase,-0.067,45,-0.069350078,0.022222222,North America,Multiple
+H71,2008,2014,2019,USA,Midwest,42.032,-93.581,Hymenoptera,Apidae,Bombus ternarius,Field,Increase,-0.067,45,-0.069350078,0.022222222,North America,Habitat
+H71,2008,2014,2019,USA,Midwest,42.032,-93.581,Hymenoptera,Apidae,Bombus ternarius,Field,Increase,-0.067,45,-0.069350078,0.022222222,North America,Climate
+H71,2008,2014,2019,USA,Midwest,42.032,-93.581,Hymenoptera,Apidae,Bombus ternarius,Field,Increase,-0.067,45,-0.069350078,0.022222222,North America,Pathogens
+H71,2008,2014,2019,USA,Midwest,42.032,-93.581,Hymenoptera,Apidae,Bombus terricola,Field,Increase,-0.708,72,-1.231001477,0.013888889,North America,Multiple
+H71,2008,2014,2019,USA,Midwest,42.032,-93.581,Hymenoptera,Apidae,Bombus terricola,Field,Increase,-0.708,72,-1.231001477,0.013888889,North America,Habitat
+H71,2008,2014,2019,USA,Midwest,42.032,-93.581,Hymenoptera,Apidae,Bombus terricola,Field,Increase,-0.708,72,-1.231001477,0.013888889,North America,Climate
+H71,2008,2014,2019,USA,Midwest,42.032,-93.581,Hymenoptera,Apidae,Bombus terricola,Field,Increase,-0.708,72,-1.231001477,0.013888889,North America,Pathogens
+H71,2008,2014,2019,USA,Midwest,42.032,-93.581,Hymenoptera,Apidae,Bombus vagans,Field,Decline,-0.127,79,-0.135819723,0.012658228,North America,Multiple
+H71,2008,2014,2019,USA,Midwest,42.032,-93.581,Hymenoptera,Apidae,Bombus vagans,Field,Decline,-0.127,79,-0.135819723,0.012658228,North America,Habitat
+H71,2008,2014,2019,USA,Midwest,42.032,-93.581,Hymenoptera,Apidae,Bombus vagans,Field,Decline,-0.127,79,-0.135819723,0.012658228,North America,Climate
+H71,2008,2014,2019,USA,Midwest,42.032,-93.581,Hymenoptera,Apidae,Bombus vagans,Field,Decline,-0.127,79,-0.135819723,0.012658228,North America,Pathogens
+H137,2003,2017,2020,USA,Mid-Atlantic,39.0,-77.0,Hymenoptera,Megachilidae,Osmia atriventris,Field,Decline,-0.1277,442,-0.136621878,0.002262443,North America,Invasives
+H137,2003,2017,2020,USA,Mid-Atlantic,39.0,-77.0,Hymenoptera,Megachilidae,Osmia bucephala,Field,Decline,-0.1226,217,-0.13079229,0.004608295,North America,Invasives
+H137,2003,2017,2020,USA,Mid-Atlantic,39.0,-77.0,Hymenoptera,Megachilidae,Osmia collinsiae,Field,Decline,-0.1366,135,-0.146877196,0.007407407,North America,Invasives
+H137,2003,2017,2020,USA,Mid-Atlantic,39.0,-77.0,Hymenoptera,Megachilidae,Osmia georgica,Field,Decline,-0.097,293,-0.102032726,0.003412969,North America,Invasives
+H137,2003,2017,2020,USA,Mid-Atlantic,39.0,-77.0,Hymenoptera,Megachilidae,Osmia lignaria,Field,Decline,-0.1378,76,-0.148268017,0.013157895,North America,Invasives
+H137,2003,2017,2020,USA,Mid-Atlantic,39.0,-77.0,Hymenoptera,Megachilidae,Osmia pumila,Field,Decline,-0.1597,1588,-0.173996308,0.00063,North America,Invasives
+H137,2003,2017,2020,USA,Mid-Atlantic,39.0,-77.0,Hymenoptera,Megachilidae,Osmia cornifrons (exotic),Field,Stable,0.0084,618,0.008364916,0.001618123,North America,Invasives
+H137,2003,2017,2020,USA,Mid-Atlantic,39.0,-77.0,Hymenoptera,Megachilidae,Osmia taurus (exotic),Field,Increase,0.1699,2288,0.156918275,0.000437,North America,Invasives
+H165,2009,2009,2010,Greece,Peloponnesus,37.6792,22.0839,Hymenoptera,Apidae,Apis mellifera,Field + Molecular,Decline,-0.58,37,-0.867500568,0.027027027,Europe,Multiple
+H165,2009,2009,2010,Greece,Peloponnesus,37.6792,22.0839,Hymenoptera,Apidae,Apis mellifera,Field + Molecular,Decline,-0.58,37,-0.867500568,0.027027027,Europe,Pathogens
+H165,2009,2009,2010,Greece,Peloponnesus,37.6792,22.0839,Hymenoptera,Apidae,Apis mellifera,Field + Molecular,Decline,-0.58,37,-0.867500568,0.027027027,Europe,Pesticides
+H165,2009,2009,2010,Greece,Peloponnesus,37.6792,22.0839,Hymenoptera,Apidae,Apis mellifera,Field + Molecular,Decline,-0.58,37,-0.867500568,0.027027027,Europe,Climate
+H185,1910,2009,2012,USA,Vermont,44.0886,-72.7317,Hymenoptera,Apidae,Bombus affinis,Historical  + Field,Decline,-0.123,205,-0.131248287,0.004878049,North America,Multiple
+H185,1910,2009,2012,USA,Vermont,44.0886,-72.7317,Hymenoptera,Apidae,Bombus affinis,Historical  + Field,Decline,-0.123,205,-0.131248287,0.004878049,North America,Habitat
+H185,1910,2009,2012,USA,Vermont,44.0886,-72.7317,Hymenoptera,Apidae,Bombus affinis,Historical  + Field,Decline,-0.123,205,-0.131248287,0.004878049,North America,Pesticides
+H185,1910,2009,2012,USA,Vermont,44.0886,-72.7317,Hymenoptera,Apidae,Bombus affinis,Historical  + Field,Decline,-0.123,205,-0.131248287,0.004878049,North America,Pathogens
+H185,1910,2009,2012,USA,Vermont,44.0886,-72.7317,Hymenoptera,Apidae,Bombus affinis,Historical  + Field,Decline,-0.123,205,-0.131248287,0.004878049,North America,Climate
+H185,1910,2009,2012,USA,Vermont,44.0886,-72.7317,Hymenoptera,Apidae,Bombus ashtoni,Historical  + Field,Decline,-0.008,14,-0.008032172,0.071428571,North America,Multiple
+H185,1910,2009,2012,USA,Vermont,44.0886,-72.7317,Hymenoptera,Apidae,Bombus ashtoni,Historical  + Field,Decline,-0.008,14,-0.008032172,0.071428571,North America,Habitat
+H185,1910,2009,2012,USA,Vermont,44.0886,-72.7317,Hymenoptera,Apidae,Bombus ashtoni,Historical  + Field,Decline,-0.008,14,-0.008032172,0.071428571,North America,Pesticides
+H185,1910,2009,2012,USA,Vermont,44.0886,-72.7317,Hymenoptera,Apidae,Bombus ashtoni,Historical  + Field,Decline,-0.008,14,-0.008032172,0.071428571,North America,Pathogens
+H185,1910,2009,2012,USA,Vermont,44.0886,-72.7317,Hymenoptera,Apidae,Bombus ashtoni,Historical  + Field,Decline,-0.008,14,-0.008032172,0.071428571,North America,Climate
+H185,1910,2009,2012,USA,Vermont,44.0886,-72.7317,Hymenoptera,Apidae,Bombus citrinus,Historical  + Field,Decline,-0.025,138,-0.025317808,0.007246377,North America,Multiple
+H185,1910,2009,2012,USA,Vermont,44.0886,-72.7317,Hymenoptera,Apidae,Bombus citrinus,Historical  + Field,Decline,-0.025,138,-0.025317808,0.007246377,North America,Habitat
+H185,1910,2009,2012,USA,Vermont,44.0886,-72.7317,Hymenoptera,Apidae,Bombus citrinus,Historical  + Field,Decline,-0.025,138,-0.025317808,0.007246377,North America,Pesticides
+H185,1910,2009,2012,USA,Vermont,44.0886,-72.7317,Hymenoptera,Apidae,Bombus citrinus,Historical  + Field,Decline,-0.025,138,-0.025317808,0.007246377,North America,Pathogens
+H185,1910,2009,2012,USA,Vermont,44.0886,-72.7317,Hymenoptera,Apidae,Bombus citrinus,Historical  + Field,Decline,-0.025,138,-0.025317808,0.007246377,North America,Climate
+H185,1910,2009,2012,USA,Vermont,44.0886,-72.7317,Hymenoptera,Apidae,Bombus fernaldae,Historical  + Field,Decline,-0.001,1,-0.0010005,1.0,North America,Multiple
+H185,1910,2009,2012,USA,Vermont,44.0886,-72.7317,Hymenoptera,Apidae,Bombus fernaldae,Historical  + Field,Decline,-0.001,1,-0.0010005,1.0,North America,Habitat
+H185,1910,2009,2012,USA,Vermont,44.0886,-72.7317,Hymenoptera,Apidae,Bombus fernaldae,Historical  + Field,Decline,-0.001,1,-0.0010005,1.0,North America,Pesticides
+H185,1910,2009,2012,USA,Vermont,44.0886,-72.7317,Hymenoptera,Apidae,Bombus fernaldae,Historical  + Field,Decline,-0.001,1,-0.0010005,1.0,North America,Pathogens
+H185,1910,2009,2012,USA,Vermont,44.0886,-72.7317,Hymenoptera,Apidae,Bombus fernaldae,Historical  + Field,Decline,-0.001,1,-0.0010005,1.0,North America,Climate
+H185,1910,2009,2012,USA,Vermont,44.0886,-72.7317,Hymenoptera,Apidae,Bombus fervidus,Historical  + Field,Decline,-0.13,331,-0.139262067,0.003021148,North America,Multiple
+H185,1910,2009,2012,USA,Vermont,44.0886,-72.7317,Hymenoptera,Apidae,Bombus fervidus,Historical  + Field,Decline,-0.13,331,-0.139262067,0.003021148,North America,Habitat
+H185,1910,2009,2012,USA,Vermont,44.0886,-72.7317,Hymenoptera,Apidae,Bombus fervidus,Historical  + Field,Decline,-0.13,331,-0.139262067,0.003021148,North America,Pesticides
+H185,1910,2009,2012,USA,Vermont,44.0886,-72.7317,Hymenoptera,Apidae,Bombus fervidus,Historical  + Field,Decline,-0.13,331,-0.139262067,0.003021148,North America,Pathogens
+H185,1910,2009,2012,USA,Vermont,44.0886,-72.7317,Hymenoptera,Apidae,Bombus fervidus,Historical  + Field,Decline,-0.13,331,-0.139262067,0.003021148,North America,Climate
+H185,1910,2009,2012,USA,Vermont,44.0886,-72.7317,Hymenoptera,Apidae,Bombus pensylvanicus,Historical  + Field,Decline,-0.042,72,-0.042907501,0.013888889,North America,Multiple
+H185,1910,2009,2012,USA,Vermont,44.0886,-72.7317,Hymenoptera,Apidae,Bombus pensylvanicus,Historical  + Field,Decline,-0.042,72,-0.042907501,0.013888889,North America,Habitat
+H185,1910,2009,2012,USA,Vermont,44.0886,-72.7317,Hymenoptera,Apidae,Bombus pensylvanicus,Historical  + Field,Decline,-0.042,72,-0.042907501,0.013888889,North America,Pesticides
+H185,1910,2009,2012,USA,Vermont,44.0886,-72.7317,Hymenoptera,Apidae,Bombus pensylvanicus,Historical  + Field,Decline,-0.042,72,-0.042907501,0.013888889,North America,Pathogens
+H185,1910,2009,2012,USA,Vermont,44.0886,-72.7317,Hymenoptera,Apidae,Bombus pensylvanicus,Historical  + Field,Decline,-0.042,72,-0.042907501,0.013888889,North America,Climate
+H185,1910,2009,2012,USA,Vermont,44.0886,-72.7317,Hymenoptera,Apidae,Bombus perplexus,Historical  + Field,Decline,-0.001,103,-0.0010005,0.009708738,North America,Multiple
+H185,1910,2009,2012,USA,Vermont,44.0886,-72.7317,Hymenoptera,Apidae,Bombus perplexus,Historical  + Field,Decline,-0.001,103,-0.0010005,0.009708738,North America,Habitat
+H185,1910,2009,2012,USA,Vermont,44.0886,-72.7317,Hymenoptera,Apidae,Bombus perplexus,Historical  + Field,Decline,-0.001,103,-0.0010005,0.009708738,North America,Pesticides
+H185,1910,2009,2012,USA,Vermont,44.0886,-72.7317,Hymenoptera,Apidae,Bombus perplexus,Historical  + Field,Decline,-0.001,103,-0.0010005,0.009708738,North America,Pathogens
+H185,1910,2009,2012,USA,Vermont,44.0886,-72.7317,Hymenoptera,Apidae,Bombus perplexus,Historical  + Field,Decline,-0.001,103,-0.0010005,0.009708738,North America,Climate
+H185,1910,2009,2012,USA,Vermont,44.0886,-72.7317,Hymenoptera,Apidae,Bombus sandersoni,Historical  + Field,Decline,-0.003,25,-0.003004509,0.04,North America,Multiple
+H185,1910,2009,2012,USA,Vermont,44.0886,-72.7317,Hymenoptera,Apidae,Bombus sandersoni,Historical  + Field,Decline,-0.003,25,-0.003004509,0.04,North America,Habitat
+H185,1910,2009,2012,USA,Vermont,44.0886,-72.7317,Hymenoptera,Apidae,Bombus sandersoni,Historical  + Field,Decline,-0.003,25,-0.003004509,0.04,North America,Pesticides
+H185,1910,2009,2012,USA,Vermont,44.0886,-72.7317,Hymenoptera,Apidae,Bombus sandersoni,Historical  + Field,Decline,-0.003,25,-0.003004509,0.04,North America,Pathogens
+H185,1910,2009,2012,USA,Vermont,44.0886,-72.7317,Hymenoptera,Apidae,Bombus sandersoni,Historical  + Field,Decline,-0.003,25,-0.003004509,0.04,North America,Climate
+H185,1910,2009,2012,USA,Vermont,44.0886,-72.7317,Hymenoptera,Apidae,Bombus terricola,Historical  + Field,Decline,-0.081,288,-0.084469157,0.003472222,North America,Multiple
+H185,1910,2009,2012,USA,Vermont,44.0886,-72.7317,Hymenoptera,Apidae,Bombus terricola,Historical  + Field,Decline,-0.081,288,-0.084469157,0.003472222,North America,Habitat
+H185,1910,2009,2012,USA,Vermont,44.0886,-72.7317,Hymenoptera,Apidae,Bombus terricola,Historical  + Field,Decline,-0.081,288,-0.084469157,0.003472222,North America,Pesticides
+H185,1910,2009,2012,USA,Vermont,44.0886,-72.7317,Hymenoptera,Apidae,Bombus terricola,Historical  + Field,Decline,-0.081,288,-0.084469157,0.003472222,North America,Pathogens
+H185,1910,2009,2012,USA,Vermont,44.0886,-72.7317,Hymenoptera,Apidae,Bombus terricola,Historical  + Field,Decline,-0.081,288,-0.084469157,0.003472222,North America,Climate
+H237,2006,2007,2010,India,"Mysore District, Karnataka",12.1826,76.3859,Hymenoptera,Apidae,Apis dorsata,Field,Decline,-0.1,37,-0.105360516,0.027027027,Asia,Multiple
+H237,2006,2007,2010,India,"Mysore District, Karnataka",12.1826,76.3859,Hymenoptera,Apidae,Apis dorsata,Field,Decline,-0.1,37,-0.105360516,0.027027027,Asia,Habitat
+H237,2006,2007,2010,India,"Mysore District, Karnataka",12.1826,76.3859,Hymenoptera,Apidae,Apis dorsata,Field,Decline,-0.1,37,-0.105360516,0.027027027,Asia,Pesticides
+H237,2006,2007,2010,India,"Mysore District, Karnataka",12.1826,76.3859,Hymenoptera,Apidae,Apis florea,Field,Decline,-0.16,25,-0.174353387,0.04,Asia,Multiple
+H237,2006,2007,2010,India,"Mysore District, Karnataka",12.1826,76.3859,Hymenoptera,Apidae,Apis florea,Field,Decline,-0.16,25,-0.174353387,0.04,Asia,Habitat
+H237,2006,2007,2010,India,"Mysore District, Karnataka",12.1826,76.3859,Hymenoptera,Apidae,Apis florea,Field,Decline,-0.16,25,-0.174353387,0.04,Asia,Pesticides
+H237,2006,2007,2010,India,"Mysore District, Karnataka",12.1826,76.3859,Hymenoptera,Apidae,Trigona iridipennis,Field,Decline,-0.15,66,-0.162518929,0.015151515,Asia,Multiple
+H237,2006,2007,2010,India,"Mysore District, Karnataka",12.1826,76.3859,Hymenoptera,Apidae,Trigona iridipennis,Field,Decline,-0.15,66,-0.162518929,0.015151515,Asia,Habitat
+H237,2006,2007,2010,India,"Mysore District, Karnataka",12.1826,76.3859,Hymenoptera,Apidae,Trigona iridipennis,Field,Decline,-0.15,66,-0.162518929,0.015151515,Asia,Pesticides
+H926,1981,2015,2018,Brazil,"Curitiba, Paraná",-25.4469,-49.2359,Hymenoptera,Apidae,Multiple (Bombus bellicosus; B. morio; Gaesischia fulgurans; Thectochlora basiatra),Historical  + Field,Decline,-0.37,2332,-0.46203546,0.000429,South America,Multiple
+H926,1981,2015,2018,Brazil,"Curitiba, Paraná",-25.4469,-49.2359,Hymenoptera,Apidae,Multiple (Bombus bellicosus; B. morio; Gaesischia fulgurans; Thectochlora basiatra),Historical  + Field,Decline,-0.37,2332,-0.46203546,0.000429,South America,Climate
+H926,1981,2015,2018,Brazil,"Curitiba, Paraná",-25.4469,-49.2359,Hymenoptera,Apidae,Multiple (Bombus bellicosus; B. morio; Gaesischia fulgurans; Thectochlora basiatra),Historical  + Field,Decline,-0.37,2332,-0.46203546,0.000429,South America,Urbanization
+H1077,1930,2010,2013,Denmark,Zealand (Red clover fields),55.4,11.8,Hymenoptera,Apidae,Bombus distinguendus,Historical  + Field,Decline,-0.9,211,-2.302585093,0.004739336,Europe,Multiple
+H1077,1930,2010,2013,Denmark,Zealand (Red clover fields),55.4,11.8,Hymenoptera,Apidae,Bombus distinguendus,Historical  + Field,Decline,-0.9,211,-2.302585093,0.004739336,Europe,Habitat
+H1077,1930,2010,2013,Denmark,Zealand (Red clover fields),55.4,11.8,Hymenoptera,Apidae,Bombus distinguendus,Historical  + Field,Decline,-0.9,211,-2.302585093,0.004739336,Europe,Pesticides
+H1077,1930,2010,2013,Denmark,Zealand (Red clover fields),55.4,11.8,Hymenoptera,Apidae,Bombus hortorum,Historical  + Field,Decline,-0.9,211,-2.302585093,0.004739336,Europe,Multiple
+H1077,1930,2010,2013,Denmark,Zealand (Red clover fields),55.4,11.8,Hymenoptera,Apidae,Bombus hortorum,Historical  + Field,Decline,-0.9,211,-2.302585093,0.004739336,Europe,Habitat
+H1077,1930,2010,2013,Denmark,Zealand (Red clover fields),55.4,11.8,Hymenoptera,Apidae,Bombus hortorum,Historical  + Field,Decline,-0.9,211,-2.302585093,0.004739336,Europe,Pesticides
+H1077,1930,2010,2013,Denmark,Zealand (Red clover fields),55.4,11.8,Hymenoptera,Apidae,Bombus muscorum,Historical  + Field,Decline,-0.95,211,-2.995732274,0.004739336,Europe,Multiple
+H1077,1930,2010,2013,Denmark,Zealand (Red clover fields),55.4,11.8,Hymenoptera,Apidae,Bombus muscorum,Historical  + Field,Decline,-0.95,211,-2.995732274,0.004739336,Europe,Habitat
+H1077,1930,2010,2013,Denmark,Zealand (Red clover fields),55.4,11.8,Hymenoptera,Apidae,Bombus muscorum,Historical  + Field,Decline,-0.95,211,-2.995732274,0.004739336,Europe,Pesticides
+H1077,1930,2010,2013,Denmark,Zealand (Red clover fields),55.4,11.8,Hymenoptera,Apidae,Bombus pascuorum,Historical  + Field,Decline,1.0,211,0.6931471805599453,0.0047393364928909,Europe,Multiple
+H1077,1930,2010,2013,Denmark,Zealand (Red clover fields),55.4,11.8,Hymenoptera,Apidae,Bombus pascuorum,Historical  + Field,Decline,1.0,211,0.6931471805599453,0.0047393364928909,Europe,Habitat
+H1077,1930,2010,2013,Denmark,Zealand (Red clover fields),55.4,11.8,Hymenoptera,Apidae,Bombus pascuorum,Historical  + Field,Decline,1.0,211,0.6931471805599453,0.0047393364928909,Europe,Pesticides
+H1077,1930,2010,2013,Denmark,Zealand (Red clover fields),55.4,11.8,Hymenoptera,Apidae,Bombus ruderarius,Historical  + Field,Increase,-0.8,211,-1.609437912,0.004739336,Europe,Multiple
+H1077,1930,2010,2013,Denmark,Zealand (Red clover fields),55.4,11.8,Hymenoptera,Apidae,Bombus ruderarius,Historical  + Field,Increase,-0.8,211,-1.609437912,0.004739336,Europe,Habitat
+H1077,1930,2010,2013,Denmark,Zealand (Red clover fields),55.4,11.8,Hymenoptera,Apidae,Bombus ruderarius,Historical  + Field,Increase,-0.8,211,-1.609437912,0.004739336,Europe,Pesticides
+H1077,1930,2010,2013,Denmark,Zealand (Red clover fields),55.4,11.8,Hymenoptera,Apidae,Bombus sylvarum,Historical  + Field,Decline,-0.85,211,-1.897119985,0.004739336,Europe,Multiple
+H1077,1930,2010,2013,Denmark,Zealand (Red clover fields),55.4,11.8,Hymenoptera,Apidae,Bombus sylvarum,Historical  + Field,Decline,-0.85,211,-1.897119985,0.004739336,Europe,Habitat
+H1077,1930,2010,2013,Denmark,Zealand (Red clover fields),55.4,11.8,Hymenoptera,Apidae,Bombus sylvarum,Historical  + Field,Decline,-0.85,211,-1.897119985,0.004739336,Europe,Pesticides
+H1077,1930,2010,2013,Denmark,Zealand (Red clover fields),55.4,11.8,Hymenoptera,Apidae,Bombus veteranus,Historical  + Field,Decline,-0.7,211,-1.203972804,0.004739336,Europe,Multiple
+H1077,1930,2010,2013,Denmark,Zealand (Red clover fields),55.4,11.8,Hymenoptera,Apidae,Bombus veteranus,Historical  + Field,Decline,-0.7,211,-1.203972804,0.004739336,Europe,Habitat
+H1077,1930,2010,2013,Denmark,Zealand (Red clover fields),55.4,11.8,Hymenoptera,Apidae,Bombus veteranus,Historical  + Field,Decline,-0.7,211,-1.203972804,0.004739336,Europe,Pesticides
+H1077,1930,2010,2013,Denmark,Zealand (Red clover fields),55.4,11.8,Hymenoptera,Apidae,Bombus lapidarius,Historical  + Field,Stable,1.0,211,0.6931471805599453,0.0047393364928909,Europe,Multiple
+H1077,1930,2010,2013,Denmark,Zealand (Red clover fields),55.4,11.8,Hymenoptera,Apidae,Bombus lapidarius,Historical  + Field,Stable,1.0,211,0.6931471805599453,0.0047393364928909,Europe,Habitat
+H1077,1930,2010,2013,Denmark,Zealand (Red clover fields),55.4,11.8,Hymenoptera,Apidae,Bombus lapidarius,Historical  + Field,Stable,1.0,211,0.6931471805599453,0.0047393364928909,Europe,Pesticides
+H1077,1930,2010,2013,Denmark,Zealand (Red clover fields),55.4,11.8,Hymenoptera,Apidae,Bombus pratorum,Historical  + Field,Stable,-0.1,211,-0.105360516,0.004739336,Europe,Multiple
+H1077,1930,2010,2013,Denmark,Zealand (Red clover fields),55.4,11.8,Hymenoptera,Apidae,Bombus pratorum,Historical  + Field,Stable,-0.1,211,-0.105360516,0.004739336,Europe,Habitat
+H1077,1930,2010,2013,Denmark,Zealand (Red clover fields),55.4,11.8,Hymenoptera,Apidae,Bombus pratorum,Historical  + Field,Stable,-0.1,211,-0.105360516,0.004739336,Europe,Pesticides
+H1077,1930,2010,2013,Denmark,Zealand (Red clover fields),55.4,11.8,Hymenoptera,Apidae,Bombus terrestris,Historical  + Field,Decline,-0.22,211,-0.248461359,0.004739336,Europe,Multiple
+H1077,1930,2010,2013,Denmark,Zealand (Red clover fields),55.4,11.8,Hymenoptera,Apidae,Bombus terrestris,Historical  + Field,Decline,-0.22,211,-0.248461359,0.004739336,Europe,Habitat
+H1077,1930,2010,2013,Denmark,Zealand (Red clover fields),55.4,11.8,Hymenoptera,Apidae,Bombus terrestris,Historical  + Field,Decline,-0.22,211,-0.248461359,0.004739336,Europe,Pesticides
+H1341,1978,2014,2020,Japan,Nationwide,36.2048,138.2529,Hymenoptera,Apidae,Bombus diversus,Historical  + Field,Decline,-0.0845,563,-0.088284915,0.001776199,Asia,Multiple
+H1341,1978,2014,2020,Japan,Nationwide,36.2048,138.2529,Hymenoptera,Apidae,Bombus diversus,Historical  + Field,Decline,-0.0845,563,-0.088284915,0.001776199,Asia,Climate
+H1341,1978,2014,2020,Japan,Nationwide,36.2048,138.2529,Hymenoptera,Apidae,Bombus diversus,Historical  + Field,Decline,-0.0845,563,-0.088284915,0.001776199,Asia,Habitat
+H1341,1978,2014,2020,Japan,Nationwide,43.4397,143.118,Hymenoptera,Apidae,Bombus ardens,Historical  + Field,Increase,0.0872,397,0.083605584,0.002518892,Asia,Multiple
+H1341,1978,2014,2020,Japan,Nationwide,43.4397,143.118,Hymenoptera,Apidae,Bombus ardens,Historical  + Field,Increase,0.0872,397,0.083605584,0.002518892,Asia,Climate
+H1341,1978,2014,2020,Japan,Nationwide,43.4397,143.118,Hymenoptera,Apidae,Bombus ardens,Historical  + Field,Increase,0.0872,397,0.083605584,0.002518892,Asia,Habitat
+H1341,1978,2014,2020,Japan,Nationwide,43.4397,143.118,Hymenoptera,Apidae,Bombus hypocrita,Historical  + Field,Decline,-0.238,251,-0.271808723,0.003984064,Asia,Multiple
+H1341,1978,2014,2020,Japan,Nationwide,43.4397,143.118,Hymenoptera,Apidae,Bombus hypocrita,Historical  + Field,Decline,-0.238,251,-0.271808723,0.003984064,Asia,Climate
+H1341,1978,2014,2020,Japan,Nationwide,43.4397,143.118,Hymenoptera,Apidae,Bombus hypocrita,Historical  + Field,Decline,-0.238,251,-0.271808723,0.003984064,Asia,Habitat
+H1341,1978,2014,2020,Japan,Nationwide,33.7172,133.3216,Hymenoptera,Apidae,Bombus ignitus,Historical  + Field,Decline,-0.249,192,-0.286349627,0.005208333,Asia,Multiple
+H1341,1978,2014,2020,Japan,Nationwide,33.7172,133.3216,Hymenoptera,Apidae,Bombus ignitus,Historical  + Field,Decline,-0.249,192,-0.286349627,0.005208333,Asia,Climate
+H1341,1978,2014,2020,Japan,Nationwide,33.7172,133.3216,Hymenoptera,Apidae,Bombus ignitus,Historical  + Field,Decline,-0.249,192,-0.286349627,0.005208333,Asia,Habitat
+H1341,1978,2014,2020,Japan,Nationwide,33.7172,133.3216,Hymenoptera,Apidae,Bombus honshuensis,Historical  + Field,Decline,-0.241,139,-0.275753502,0.007194245,Asia,Multiple
+H1341,1978,2014,2020,Japan,Nationwide,33.7172,133.3216,Hymenoptera,Apidae,Bombus honshuensis,Historical  + Field,Decline,-0.241,139,-0.275753502,0.007194245,Asia,Climate
+H1341,1978,2014,2020,Japan,Nationwide,33.7172,133.3216,Hymenoptera,Apidae,Bombus honshuensis,Historical  + Field,Decline,-0.241,139,-0.275753502,0.007194245,Asia,Habitat
+D4,1974,2014,2020,UK,"Hertfordshire (Rothamsted, Harpenden)",51.807,-0.3601,Diptera,Multiple,Multiple ( Phoridae / Bibionidae / Chloropidae / Sphaeroceridae),Field,Decline,-0.37,436,-0.46203546,0.002293578,Europe,Climate
+D7,2000,2019,2021,Brazil,"Upper Paraná River floodplain, Paraná State",-22.0,-53.5,Diptera,Dolichopodidae,,Field,Decline,-0.78,240,-1.514127733,0.004166667,South America,Multiple
+D7,2000,2019,2021,Brazil,"Upper Paraná River floodplain, Paraná State",-22.0,-53.5,Diptera,Dolichopodidae,,Field,Decline,-0.78,240,-1.514127733,0.004166667,South America,Invasives
+D7,2000,2019,2021,Brazil,"Upper Paraná River floodplain, Paraná State",-22.0,-53.5,Diptera,Dolichopodidae,,Field,Decline,-0.78,240,-1.514127733,0.004166667,South America,Climate
+D7,2000,2019,2021,Brazil,"Upper Paraná River floodplain, Paraná State",-22.0,-53.5,Diptera,Chaoboridae,,Field,Decline,-0.64,240,-1.021651248,0.004166667,South America,Multiple
+D7,2000,2019,2021,Brazil,"Upper Paraná River floodplain, Paraná State",-22.0,-53.5,Diptera,Chaoboridae,,Field,Decline,-0.64,240,-1.021651248,0.004166667,South America,Invasives
+D7,2000,2019,2021,Brazil,"Upper Paraná River floodplain, Paraná State",-22.0,-53.5,Diptera,Chaoboridae,,Field,Decline,-0.64,240,-1.021651248,0.004166667,South America,Climate
+D7,2000,2019,2021,Brazil,"Upper Paraná River floodplain, Paraná State",-22.0,-53.5,Diptera,Ceratopogonidae,,Field,Decline,-0.66,240,-1.078809661,0.004166667,South America,Multiple
+D7,2000,2019,2021,Brazil,"Upper Paraná River floodplain, Paraná State",-22.0,-53.5,Diptera,Ceratopogonidae,,Field,Decline,-0.66,240,-1.078809661,0.004166667,South America,Invasives
+D7,2000,2019,2021,Brazil,"Upper Paraná River floodplain, Paraná State",-22.0,-53.5,Diptera,Ceratopogonidae,,Field,Decline,-0.66,240,-1.078809661,0.004166667,South America,Climate
+D7,2000,2019,2021,Brazil,"Upper Paraná River floodplain, Paraná State",-22.0,-53.5,Diptera,Culicidae,,Field,Decline,-0.62,240,-0.967584026,0.004166667,South America,Multiple
+D7,2000,2019,2021,Brazil,"Upper Paraná River floodplain, Paraná State",-22.0,-53.5,Diptera,Culicidae,,Field,Decline,-0.62,240,-0.967584026,0.004166667,South America,Invasives
+D7,2000,2019,2021,Brazil,"Upper Paraná River floodplain, Paraná State",-22.0,-53.5,Diptera,Culicidae,,Field,Decline,-0.62,240,-0.967584026,0.004166667,South America,Climate
+D7,2000,2019,2021,Brazil,"Upper Paraná River floodplain, Paraná State",-22.0,-53.5,Diptera,Chironomidae,,Field,Decline,-0.58,240,-0.867500568,0.004166667,South America,Multiple
+D7,2000,2019,2021,Brazil,"Upper Paraná River floodplain, Paraná State",-22.0,-53.5,Diptera,Chironomidae,,Field,Decline,-0.58,240,-0.867500568,0.004166667,South America,Invasives
+D7,2000,2019,2021,Brazil,"Upper Paraná River floodplain, Paraná State",-22.0,-53.5,Diptera,Chironomidae,,Field,Decline,-0.58,240,-0.867500568,0.004166667,South America,Climate
+D9,2008,2009,2012,UK,"Strathspey, Scotland",57.3,-3.65,Diptera,Syrphidae,Blera fallax,Molecular,Decline,-0.9997,17,-8.111728083,0.058823529,Europe,Habitat
+D9,2008,2009,2012,Sweden,Järfälla,59.4,17.87,Diptera,Syrphidae,Blera fallax,Molecular,Decline,-0.9974,23,-5.952243834,0.043478261,Europe,Habitat
+D13,1979,1984,1985,USA,"Central Florida (Lake Monroe, Seminole County)",28.8111,-81.2656,Diptera,Chironomidae,Multiple (Chironomidae community),Field,Decline,-0.8,4,-1.609437912,0.25,North America,Multiple
+D13,1979,1984,1985,USA,"Central Florida (Lake Monroe, Seminole County)",28.8111,-81.2656,Diptera,Chironomidae,Multiple (Chironomidae community),Field,Decline,-0.8,4,-1.609437912,0.25,North America,Climate
+D13,1979,1984,1985,USA,"Central Florida (Lake Monroe, Seminole County)",28.8111,-81.2656,Diptera,Chironomidae,Multiple (Chironomidae community),Field,Decline,-0.8,4,-1.609437912,0.25,North America,Habitat
+D31,1980,2020,2021,Germany,Bavaria,48.7904,11.4979,Diptera,Syrphidae,Helophilus pendulus,Field,Decline,-0.854,933,-1.924148657,0.001071811,Europe,Multiple
+D31,1980,2020,2021,Germany,Bavaria,48.7904,11.4979,Diptera,Syrphidae,Helophilus pendulus,Field,Decline,-0.854,933,-1.924148657,0.001071811,Europe,Habitat
+D31,1980,2020,2021,Germany,Bavaria,48.7904,11.4979,Diptera,Syrphidae,Helophilus pendulus,Field,Decline,-0.854,933,-1.924148657,0.001071811,Europe,Climate
+D31,1980,2020,2021,Germany,Bavaria,48.7904,11.4979,Diptera,Syrphidae,Helophilus pendulus,Field,Decline,-0.854,933,-1.924148657,0.001071811,Europe,Pesticides
+D31,1980,2020,2021,Germany,Bavaria,48.7904,11.4979,Diptera,Syrphidae,Episyrphus balteatus,Field,Decline,-0.214,931,-0.240798487,0.001074114,Europe,Multiple
+D31,1980,2020,2021,Germany,Bavaria,48.7904,11.4979,Diptera,Syrphidae,Episyrphus balteatus,Field,Decline,-0.214,931,-0.240798487,0.001074114,Europe,Habitat
+D31,1980,2020,2021,Germany,Bavaria,48.7904,11.4979,Diptera,Syrphidae,Episyrphus balteatus,Field,Decline,-0.214,931,-0.240798487,0.001074114,Europe,Climate
+D31,1980,2020,2021,Germany,Bavaria,48.7904,11.4979,Diptera,Syrphidae,Episyrphus balteatus,Field,Decline,-0.214,931,-0.240798487,0.001074114,Europe,Pesticides
+D31,1980,2020,2021,Germany,Bavaria,48.7904,11.4979,Diptera,Syrphidae,Syrphus ribesii,Field,Decline,-0.841,672,-1.838851077,0.001488095,Europe,Multiple
+D31,1980,2020,2021,Germany,Bavaria,48.7904,11.4979,Diptera,Syrphidae,Syrphus ribesii,Field,Decline,-0.841,672,-1.838851077,0.001488095,Europe,Habitat
+D31,1980,2020,2021,Germany,Bavaria,48.7904,11.4979,Diptera,Syrphidae,Syrphus ribesii,Field,Decline,-0.841,672,-1.838851077,0.001488095,Europe,Climate
+D31,1980,2020,2021,Germany,Bavaria,48.7904,11.4979,Diptera,Syrphidae,Syrphus ribesii,Field,Decline,-0.841,672,-1.838851077,0.001488095,Europe,Pesticides
+D31,1980,2020,2021,Germany,Bavaria,48.7904,11.4979,Diptera,Syrphidae,Parasyrphus punctulatus,Field,Decline,-0.408,609,-0.524248644,0.001642036,Europe,Multiple
+D31,1980,2020,2021,Germany,Bavaria,48.7904,11.4979,Diptera,Syrphidae,Parasyrphus punctulatus,Field,Decline,-0.408,609,-0.524248644,0.001642036,Europe,Habitat
+D31,1980,2020,2021,Germany,Bavaria,48.7904,11.4979,Diptera,Syrphidae,Parasyrphus punctulatus,Field,Decline,-0.408,609,-0.524248644,0.001642036,Europe,Climate
+D31,1980,2020,2021,Germany,Bavaria,48.7904,11.4979,Diptera,Syrphidae,Parasyrphus punctulatus,Field,Decline,-0.408,609,-0.524248644,0.001642036,Europe,Pesticides
+D31,1980,2020,2021,Germany,Bavaria,48.7904,11.4979,Diptera,Syrphidae,Syrphus torvus,Field,Decline,-0.987,533,-4.342805922,0.001876173,Europe,Multiple
+D31,1980,2020,2021,Germany,Bavaria,48.7904,11.4979,Diptera,Syrphidae,Syrphus torvus,Field,Decline,-0.987,533,-4.342805922,0.001876173,Europe,Habitat
+D31,1980,2020,2021,Germany,Bavaria,48.7904,11.4979,Diptera,Syrphidae,Syrphus torvus,Field,Decline,-0.987,533,-4.342805922,0.001876173,Europe,Climate
+D31,1980,2020,2021,Germany,Bavaria,48.7904,11.4979,Diptera,Syrphidae,Syrphus torvus,Field,Decline,-0.987,533,-4.342805922,0.001876173,Europe,Pesticides
+D31,1980,2020,2021,Germany,Bavaria,48.7904,11.4979,Diptera,Syrphidae,Eristalis pertinax,Field,Decline,-0.572,521,-0.848632083,0.001919386,Europe,Multiple
+D31,1980,2020,2021,Germany,Bavaria,48.7904,11.4979,Diptera,Syrphidae,Eristalis pertinax,Field,Decline,-0.572,521,-0.848632083,0.001919386,Europe,Habitat
+D31,1980,2020,2021,Germany,Bavaria,48.7904,11.4979,Diptera,Syrphidae,Eristalis pertinax,Field,Decline,-0.572,521,-0.848632083,0.001919386,Europe,Climate
+D31,1980,2020,2021,Germany,Bavaria,48.7904,11.4979,Diptera,Syrphidae,Eristalis pertinax,Field,Decline,-0.572,521,-0.848632083,0.001919386,Europe,Pesticides
+D31,1980,2020,2021,Germany,Bavaria,48.7904,11.4979,Diptera,Syrphidae,Meliscaeva cinctella,Field,Decline,-0.572,519,-0.848632083,0.001926782,Europe,Multiple
+D31,1980,2020,2021,Germany,Bavaria,48.7904,11.4979,Diptera,Syrphidae,Meliscaeva cinctella,Field,Decline,-0.572,519,-0.848632083,0.001926782,Europe,Habitat
+D31,1980,2020,2021,Germany,Bavaria,48.7904,11.4979,Diptera,Syrphidae,Meliscaeva cinctella,Field,Decline,-0.572,519,-0.848632083,0.001926782,Europe,Climate
+D31,1980,2020,2021,Germany,Bavaria,48.7904,11.4979,Diptera,Syrphidae,Meliscaeva cinctella,Field,Decline,-0.572,519,-0.848632083,0.001926782,Europe,Pesticides
+D31,1980,2020,2021,Germany,Bavaria,48.7904,11.4979,Diptera,Syrphidae,Melanostoma scalare,Field,Decline,-0.739,465,-1.343234872,0.002150538,Europe,Multiple
+D31,1980,2020,2021,Germany,Bavaria,48.7904,11.4979,Diptera,Syrphidae,Melanostoma scalare,Field,Decline,-0.739,465,-1.343234872,0.002150538,Europe,Habitat
+D31,1980,2020,2021,Germany,Bavaria,48.7904,11.4979,Diptera,Syrphidae,Melanostoma scalare,Field,Decline,-0.739,465,-1.343234872,0.002150538,Europe,Climate
+D31,1980,2020,2021,Germany,Bavaria,48.7904,11.4979,Diptera,Syrphidae,Melanostoma scalare,Field,Decline,-0.739,465,-1.343234872,0.002150538,Europe,Pesticides
+D31,1980,2020,2021,Germany,Bavaria,48.7904,11.4979,Diptera,Syrphidae,Meligramma cincta,Field,Decline,-0.739,275,-1.343234872,0.003636364,Europe,Multiple
+D31,1980,2020,2021,Germany,Bavaria,48.7904,11.4979,Diptera,Syrphidae,Meligramma cincta,Field,Decline,-0.739,275,-1.343234872,0.003636364,Europe,Habitat
+D31,1980,2020,2021,Germany,Bavaria,48.7904,11.4979,Diptera,Syrphidae,Meligramma cincta,Field,Decline,-0.739,275,-1.343234872,0.003636364,Europe,Climate
+D31,1980,2020,2021,Germany,Bavaria,48.7904,11.4979,Diptera,Syrphidae,Meligramma cincta,Field,Decline,-0.739,275,-1.343234872,0.003636364,Europe,Pesticides
+D31,1980,2020,2021,Germany,Bavaria,48.7904,11.4979,Diptera,Syrphidae,Dasysyrphus venustus,Field,Decline,-0.975,237,-3.688879454,0.004219409,Europe,Multiple
+D31,1980,2020,2021,Germany,Bavaria,48.7904,11.4979,Diptera,Syrphidae,Dasysyrphus venustus,Field,Decline,-0.975,237,-3.688879454,0.004219409,Europe,Habitat
+D31,1980,2020,2021,Germany,Bavaria,48.7904,11.4979,Diptera,Syrphidae,Dasysyrphus venustus,Field,Decline,-0.975,237,-3.688879454,0.004219409,Europe,Climate
+D31,1980,2020,2021,Germany,Bavaria,48.7904,11.4979,Diptera,Syrphidae,Dasysyrphus venustus,Field,Decline,-0.975,237,-3.688879454,0.004219409,Europe,Pesticides
+D40,1970,2022,2024,"Hungary, Slovakia (Carpathian Basin)",Pannonian biogeographic region,47.1625,19.5033,Diptera,Syrphidae,Sphaerophoria scripta,Historical + Field,Decline,-0.969,6844,-3.473768074,0.000146,Europe,Multiple
+D40,1970,2022,2024,"Hungary, Slovakia (Carpathian Basin)",Pannonian biogeographic region,47.1625,19.5033,Diptera,Syrphidae,Sphaerophoria scripta,Historical + Field,Decline,-0.969,6844,-3.473768074,0.000146,Europe,Climate
+D40,1970,2022,2024,"Hungary, Slovakia (Carpathian Basin)",Pannonian biogeographic region,47.1625,19.5033,Diptera,Syrphidae,Sphaerophoria scripta,Historical + Field,Decline,-0.969,6844,-3.473768074,0.000146,Europe,Habitat
+D40,1970,2022,2024,"Hungary, Slovakia (Carpathian Basin)",Pannonian biogeographic region,47.1625,19.5033,Diptera,Syrphidae,Cheilosia variabilis,Historical + Field,Decline,-0.967,452,-3.411247718,0.002212389,Europe,Multiple
+D40,1970,2022,2024,"Hungary, Slovakia (Carpathian Basin)",Pannonian biogeographic region,47.1625,19.5033,Diptera,Syrphidae,Cheilosia variabilis,Historical + Field,Decline,-0.967,452,-3.411247718,0.002212389,Europe,Climate
+D40,1970,2022,2024,"Hungary, Slovakia (Carpathian Basin)",Pannonian biogeographic region,47.1625,19.5033,Diptera,Syrphidae,Cheilosia variabilis,Historical + Field,Decline,-0.967,452,-3.411247718,0.002212389,Europe,Habitat
+D40,1970,2022,2024,"Hungary, Slovakia (Carpathian Basin)",Pannonian biogeographic region,47.1625,19.5033,Diptera,Syrphidae,Syrphus torvus,Historical + Field,Decline,-0.958,455,-3.170085661,0.002197802,Europe,Multiple
+D40,1970,2022,2024,"Hungary, Slovakia (Carpathian Basin)",Pannonian biogeographic region,47.1625,19.5033,Diptera,Syrphidae,Syrphus torvus,Historical + Field,Decline,-0.958,455,-3.170085661,0.002197802,Europe,Climate
+D40,1970,2022,2024,"Hungary, Slovakia (Carpathian Basin)",Pannonian biogeographic region,47.1625,19.5033,Diptera,Syrphidae,Syrphus torvus,Historical + Field,Decline,-0.958,455,-3.170085661,0.002197802,Europe,Habitat
+D40,1970,2022,2024,"Hungary, Slovakia (Carpathian Basin)",Pannonian biogeographic region,47.1625,19.5033,Diptera,Syrphidae,Syrphus vitripennis,Historical + Field,Decline,-0.943,1425,-2.864704011,0.000702,Europe,Multiple
+D40,1970,2022,2024,"Hungary, Slovakia (Carpathian Basin)",Pannonian biogeographic region,47.1625,19.5033,Diptera,Syrphidae,Syrphus vitripennis,Historical + Field,Decline,-0.943,1425,-2.864704011,0.000702,Europe,Climate
+D40,1970,2022,2024,"Hungary, Slovakia (Carpathian Basin)",Pannonian biogeographic region,47.1625,19.5033,Diptera,Syrphidae,Syrphus vitripennis,Historical + Field,Decline,-0.943,1425,-2.864704011,0.000702,Europe,Habitat
+D40,1970,2022,2024,"Hungary, Slovakia (Carpathian Basin)",Pannonian biogeographic region,47.1625,19.5033,Diptera,Syrphidae,Episyrphus balteatus,Historical + Field,Decline,-0.941,5377,-2.830217835,0.000186,Europe,Multiple
+D40,1970,2022,2024,"Hungary, Slovakia (Carpathian Basin)",Pannonian biogeographic region,47.1625,19.5033,Diptera,Syrphidae,Episyrphus balteatus,Historical + Field,Decline,-0.941,5377,-2.830217835,0.000186,Europe,Climate
+D40,1970,2022,2024,"Hungary, Slovakia (Carpathian Basin)",Pannonian biogeographic region,47.1625,19.5033,Diptera,Syrphidae,Episyrphus balteatus,Historical + Field,Decline,-0.941,5377,-2.830217835,0.000186,Europe,Habitat
+D40,1970,2022,2024,"Hungary, Slovakia (Carpathian Basin)",Pannonian biogeographic region,47.1625,19.5033,Diptera,Syrphidae,Melanostoma mellinum,Historical + Field,Decline,-0.936,3314,-2.748872196,0.000302,Europe,Multiple
+D40,1970,2022,2024,"Hungary, Slovakia (Carpathian Basin)",Pannonian biogeographic region,47.1625,19.5033,Diptera,Syrphidae,Melanostoma mellinum,Historical + Field,Decline,-0.936,3314,-2.748872196,0.000302,Europe,Climate
+D40,1970,2022,2024,"Hungary, Slovakia (Carpathian Basin)",Pannonian biogeographic region,47.1625,19.5033,Diptera,Syrphidae,Melanostoma mellinum,Historical + Field,Decline,-0.936,3314,-2.748872196,0.000302,Europe,Habitat
+D40,1970,2022,2024,"Hungary, Slovakia (Carpathian Basin)",Pannonian biogeographic region,47.1625,19.5033,Diptera,Syrphidae,Pipizella viduata,Historical + Field,Decline,-0.909,1050,-2.396895772,0.000952,Europe,Multiple
+D40,1970,2022,2024,"Hungary, Slovakia (Carpathian Basin)",Pannonian biogeographic region,47.1625,19.5033,Diptera,Syrphidae,Pipizella viduata,Historical + Field,Decline,-0.909,1050,-2.396895772,0.000952,Europe,Climate
+D40,1970,2022,2024,"Hungary, Slovakia (Carpathian Basin)",Pannonian biogeographic region,47.1625,19.5033,Diptera,Syrphidae,Pipizella viduata,Historical + Field,Decline,-0.909,1050,-2.396895772,0.000952,Europe,Habitat
+D40,1970,2022,2024,"Hungary, Slovakia (Carpathian Basin)",Pannonian biogeographic region,47.1625,19.5033,Diptera,Syrphidae,Eristalis arbustorum,Historical + Field,Decline,-0.908,2795,-2.385966702,0.000358,Europe,Multiple
+D40,1970,2022,2024,"Hungary, Slovakia (Carpathian Basin)",Pannonian biogeographic region,47.1625,19.5033,Diptera,Syrphidae,Eristalis arbustorum,Historical + Field,Decline,-0.908,2795,-2.385966702,0.000358,Europe,Climate
+D40,1970,2022,2024,"Hungary, Slovakia (Carpathian Basin)",Pannonian biogeographic region,47.1625,19.5033,Diptera,Syrphidae,Eristalis arbustorum,Historical + Field,Decline,-0.908,2795,-2.385966702,0.000358,Europe,Habitat
+D40,1970,2022,2024,"Hungary, Slovakia (Carpathian Basin)",Pannonian biogeographic region,47.1625,19.5033,Diptera,Syrphidae,Myathropa florea,Historical + Field,Decline,-0.903,316,-2.3330443,0.003164557,Europe,Multiple
+D40,1970,2022,2024,"Hungary, Slovakia (Carpathian Basin)",Pannonian biogeographic region,47.1625,19.5033,Diptera,Syrphidae,Myathropa florea,Historical + Field,Decline,-0.903,316,-2.3330443,0.003164557,Europe,Climate
+D40,1970,2022,2024,"Hungary, Slovakia (Carpathian Basin)",Pannonian biogeographic region,47.1625,19.5033,Diptera,Syrphidae,Myathropa florea,Historical + Field,Decline,-0.903,316,-2.3330443,0.003164557,Europe,Habitat
+D40,1970,2022,2024,"Hungary, Slovakia (Carpathian Basin)",Pannonian biogeographic region,47.1625,19.5033,Diptera,Syrphidae,Eristalis pertinax,Historical + Field,Decline,-0.881,265,-2.128631786,0.003773585,Europe,Multiple
+D40,1970,2022,2024,"Hungary, Slovakia (Carpathian Basin)",Pannonian biogeographic region,47.1625,19.5033,Diptera,Syrphidae,Eristalis pertinax,Historical + Field,Decline,-0.881,265,-2.128631786,0.003773585,Europe,Climate
+D40,1970,2022,2024,"Hungary, Slovakia (Carpathian Basin)",Pannonian biogeographic region,47.1625,19.5033,Diptera,Syrphidae,Eristalis pertinax,Historical + Field,Decline,-0.881,265,-2.128631786,0.003773585,Europe,Habitat
+D40,1970,2022,2024,"Hungary, Slovakia (Carpathian Basin)",Pannonian biogeographic region,47.1625,19.5033,Diptera,Syrphidae,Syritta pipiens,Historical + Field,Decline,-0.844,2227,-1.857899272,0.000449,Europe,Multiple
+D40,1970,2022,2024,"Hungary, Slovakia (Carpathian Basin)",Pannonian biogeographic region,47.1625,19.5033,Diptera,Syrphidae,Syritta pipiens,Historical + Field,Decline,-0.844,2227,-1.857899272,0.000449,Europe,Climate
+D40,1970,2022,2024,"Hungary, Slovakia (Carpathian Basin)",Pannonian biogeographic region,47.1625,19.5033,Diptera,Syrphidae,Syritta pipiens,Historical + Field,Decline,-0.844,2227,-1.857899272,0.000449,Europe,Habitat
+D40,1970,2022,2024,"Hungary, Slovakia (Carpathian Basin)",Pannonian biogeographic region,47.1625,19.5033,Diptera,Syrphidae,Scaeva pyrastri,Historical + Field,Decline,-0.838,372,-1.820158944,0.002688172,Europe,Multiple
+D40,1970,2022,2024,"Hungary, Slovakia (Carpathian Basin)",Pannonian biogeographic region,47.1625,19.5033,Diptera,Syrphidae,Scaeva pyrastri,Historical + Field,Decline,-0.838,372,-1.820158944,0.002688172,Europe,Climate
+D40,1970,2022,2024,"Hungary, Slovakia (Carpathian Basin)",Pannonian biogeographic region,47.1625,19.5033,Diptera,Syrphidae,Scaeva pyrastri,Historical + Field,Decline,-0.838,372,-1.820158944,0.002688172,Europe,Habitat
+D40,1970,2022,2024,"Hungary, Slovakia (Carpathian Basin)",Pannonian biogeographic region,47.1625,19.5033,Diptera,Syrphidae,Platycheirus albimanus,Historical + Field,Decline,-0.833,422,-1.789761467,0.002369668,Europe,Multiple
+D40,1970,2022,2024,"Hungary, Slovakia (Carpathian Basin)",Pannonian biogeographic region,47.1625,19.5033,Diptera,Syrphidae,Platycheirus albimanus,Historical + Field,Decline,-0.833,422,-1.789761467,0.002369668,Europe,Climate
+D40,1970,2022,2024,"Hungary, Slovakia (Carpathian Basin)",Pannonian biogeographic region,47.1625,19.5033,Diptera,Syrphidae,Platycheirus albimanus,Historical + Field,Decline,-0.833,422,-1.789761467,0.002369668,Europe,Habitat
+D40,1970,2022,2024,"Hungary, Slovakia (Carpathian Basin)",Pannonian biogeographic region,47.1625,19.5033,Diptera,Syrphidae,Eristalis tenax,Historical + Field,Decline,-0.824,2301,-1.737271284,0.000435,Europe,Multiple
+D40,1970,2022,2024,"Hungary, Slovakia (Carpathian Basin)",Pannonian biogeographic region,47.1625,19.5033,Diptera,Syrphidae,Eristalis tenax,Historical + Field,Decline,-0.824,2301,-1.737271284,0.000435,Europe,Climate
+D40,1970,2022,2024,"Hungary, Slovakia (Carpathian Basin)",Pannonian biogeographic region,47.1625,19.5033,Diptera,Syrphidae,Eristalis tenax,Historical + Field,Decline,-0.824,2301,-1.737271284,0.000435,Europe,Habitat
+D40,1970,2022,2024,"Hungary, Slovakia (Carpathian Basin)",Pannonian biogeographic region,47.1625,19.5033,Diptera,Syrphidae,Syrphus ribesii,Historical + Field,Decline,-0.817,732,-1.698269126,0.00136612,Europe,Multiple
+D40,1970,2022,2024,"Hungary, Slovakia (Carpathian Basin)",Pannonian biogeographic region,47.1625,19.5033,Diptera,Syrphidae,Syrphus ribesii,Historical + Field,Decline,-0.817,732,-1.698269126,0.00136612,Europe,Climate
+D40,1970,2022,2024,"Hungary, Slovakia (Carpathian Basin)",Pannonian biogeographic region,47.1625,19.5033,Diptera,Syrphidae,Syrphus ribesii,Historical + Field,Decline,-0.817,732,-1.698269126,0.00136612,Europe,Habitat
+D40,1970,2022,2024,"Hungary, Slovakia (Carpathian Basin)",Pannonian biogeographic region,47.1625,19.5033,Diptera,Syrphidae,Volucella pellucens,Historical + Field,Decline,-0.812,116,-1.671313316,0.00862069,Europe,Multiple
+D40,1970,2022,2024,"Hungary, Slovakia (Carpathian Basin)",Pannonian biogeographic region,47.1625,19.5033,Diptera,Syrphidae,Volucella pellucens,Historical + Field,Decline,-0.812,116,-1.671313316,0.00862069,Europe,Climate
+D40,1970,2022,2024,"Hungary, Slovakia (Carpathian Basin)",Pannonian biogeographic region,47.1625,19.5033,Diptera,Syrphidae,Volucella pellucens,Historical + Field,Decline,-0.812,116,-1.671313316,0.00862069,Europe,Habitat
+D40,1970,2022,2024,"Hungary, Slovakia (Carpathian Basin)",Pannonian biogeographic region,47.1625,19.5033,Diptera,Syrphidae,Eupeodes luniger,Historical + Field,Decline,-0.778,146,-1.505077897,0.006849315,Europe,Multiple
+D40,1970,2022,2024,"Hungary, Slovakia (Carpathian Basin)",Pannonian biogeographic region,47.1625,19.5033,Diptera,Syrphidae,Eupeodes luniger,Historical + Field,Decline,-0.778,146,-1.505077897,0.006849315,Europe,Climate
+D40,1970,2022,2024,"Hungary, Slovakia (Carpathian Basin)",Pannonian biogeographic region,47.1625,19.5033,Diptera,Syrphidae,Eupeodes luniger,Historical + Field,Decline,-0.778,146,-1.505077897,0.006849315,Europe,Habitat
+D40,1970,2022,2024,"Hungary, Slovakia (Carpathian Basin)",Pannonian biogeographic region,47.1625,19.5033,Diptera,Syrphidae,Cheilosia impressa,Historical + Field,Decline,-0.622,303,-0.972861083,0.00330033,Europe,Multiple
+D40,1970,2022,2024,"Hungary, Slovakia (Carpathian Basin)",Pannonian biogeographic region,47.1625,19.5033,Diptera,Syrphidae,Cheilosia impressa,Historical + Field,Decline,-0.622,303,-0.972861083,0.00330033,Europe,Climate
+D40,1970,2022,2024,"Hungary, Slovakia (Carpathian Basin)",Pannonian biogeographic region,47.1625,19.5033,Diptera,Syrphidae,Cheilosia impressa,Historical + Field,Decline,-0.622,303,-0.972861083,0.00330033,Europe,Habitat
+D40,1970,2022,2024,"Hungary, Slovakia (Carpathian Basin)",Pannonian biogeographic region,47.1625,19.5033,Diptera,Syrphidae,Cheilosia soror,Historical + Field,Decline,-0.115,189,-0.122167634,0.005291005,Europe,Multiple
+D40,1970,2022,2024,"Hungary, Slovakia (Carpathian Basin)",Pannonian biogeographic region,47.1625,19.5033,Diptera,Syrphidae,Cheilosia soror,Historical + Field,Decline,-0.115,189,-0.122167634,0.005291005,Europe,Climate
+D40,1970,2022,2024,"Hungary, Slovakia (Carpathian Basin)",Pannonian biogeographic region,47.1625,19.5033,Diptera,Syrphidae,Cheilosia soror,Historical + Field,Decline,-0.115,189,-0.122167634,0.005291005,Europe,Habitat
+D40,1970,2022,2024,"Hungary, Slovakia (Carpathian Basin)",Pannonian biogeographic region,47.1625,19.5033,Diptera,Syrphidae,Volucella zonaria,Historical + Field,Decline,-0.833,51,-1.789761467,0.019607843,Europe,Multiple
+D40,1970,2022,2024,"Hungary, Slovakia (Carpathian Basin)",Pannonian biogeographic region,47.1625,19.5033,Diptera,Syrphidae,Volucella zonaria,Historical + Field,Decline,-0.833,51,-1.789761467,0.019607843,Europe,Climate
+D40,1970,2022,2024,"Hungary, Slovakia (Carpathian Basin)",Pannonian biogeographic region,47.1625,19.5033,Diptera,Syrphidae,Volucella zonaria,Historical + Field,Decline,-0.833,51,-1.789761467,0.019607843,Europe,Habitat
+D192,1982,1984,1986,USA,"Kern County, California",35.4369,-118.8596,Diptera,Culicidae,Culex tarsalis,Field,Decline,-0.87,248,-2.040220829,0.004032258,North America,Climate
+D192,1982,1984,1986,USA,"Kern County, California",35.4369,-118.8596,Diptera,Culicidae,Culex quinquefasciatus,Field,Decline,-0.99,231,-4.605170186,0.004329004,North America,Climate
+D556,2003,2009,2012,French Polynesia,Tahiti Island,-17.5667,-149.6,Diptera,Tephritidae,Bactrocera dorsalis,Field,Decline,-0.923,388,-2.563949857,0.00257732,Oceania,Invasives
+D556,2003,2009,2012,French Polynesia,Tahiti Island,-17.5667,-149.6,Diptera,Tephritidae,Bactrocera tryoni,Field,Decline,-0.968,388,-3.442019376,0.00257732,Oceania,Invasives
+D556,2003,2009,2012,French Polynesia,Tahiti Island,-17.5667,-149.6,Diptera,Tephritidae,Bactrocera kirki,Field,Decline,-0.996,388,-5.521460918,0.00257732,Oceania,Invasives
+D975,1983,1995,1997,Kenya,"Nguruman, south-west Kenya",-1.9167,36.0833,Diptera,Glossinidae,Glossina pallidipes,Field,Decline,-0.998,10,-6.214608098,0.1,Africa,Climate
+D1682,1978,1993,1997,USA,Florida Medical Entomology Laborator,27.5833,-80.3667,Diptera,Culicidae,Aedes triseriatus,Field,Decline,-0.935,32,-2.733368009086501,0.03125,North America,Climate
+C4,1865,2004,2007,Italy,National,41.8719,12.5674,Coleoptera,Scarabaeidae,Gymnopleurus flagellatus,Historical,Decline,-0.962,42,-3.270169119,0.023809524,Europe,Habitat
+C4,1865,2004,2007,Italy,National,41.8719,12.5674,Coleoptera,Scarabaeidae,Gymnopleurus geoffroyi,Historical,Decline,-0.933,61,-2.70306266,0.016393443,Europe,Habitat
+C4,1865,2004,2007,Italy,National,41.8719,12.5674,Coleoptera,Scarabaeidae,Gymnopleurus mopsus,Historical,Decline,-0.978,202,-3.816712826,0.004950495,Europe,Habitat
+C4,1865,2004,2007,Italy,National,41.8719,12.5674,Coleoptera,Scarabaeidae,Gymnopleurus sturmi,Historical,Decline,-0.938,284,-2.780620894,0.003521127,Europe,Habitat
+C4,1865,2004,2007,Italy,National,41.8719,12.5674,Coleoptera,Scarabaeidae,Scarabaeus laticollis,Historical,Decline,-0.481,310,-0.655851396,0.003225806,Europe,Habitat
+C4,1865,2004,2007,Italy,National,41.8719,12.5674,Coleoptera,Scarabaeidae,Scarabaeus semipunctatus,Historical,Decline,-0.626,249,-0.983499482,0.004016064,Europe,Habitat
+C4,1865,2004,2007,Italy,National,41.8719,12.5674,Coleoptera,Scarabaeidae,Scarabaeus variolosus,Historical,Decline,-0.176,163,-0.193584749,0.006134969,Europe,Habitat
+C4,1865,2004,2007,Italy,National,41.8719,12.5674,Coleoptera,Scarabaeidae,Scarabaeus pius,Historical,Decline,-0.996,30,-5.521460918,0.033333333,Europe,Habitat
+C4,1865,2004,2007,Italy,National,41.8719,12.5674,Coleoptera,Scarabaeidae,Scarabaeus sacer,Historical,Decline,-0.886,171,-2.171556831,0.005847953,Europe,Habitat
+C4,1865,2004,2007,Italy,National,41.8719,12.5674,Coleoptera,Scarabaeidae,Scarabaeus typhon,Historical,Decline,-0.907,185,-2.375155786,0.005405405,Europe,Habitat
+C4,1865,2004,2007,Italy,National,41.8719,12.5674,Coleoptera,Scarabaeidae,Sisyphus schaefferi,Historical,Increase,1.0,233,0.6931471805599453,0.0042918454935622,Europe,Habitat
+C8,1973,2017,2019,USA,"New Hampshire, White Mountains, Hubbard Brook Experimental Forest",43.9439,-71.7386,Coleoptera,Multiple,Multiple,Field,Decline,-0.83,725,-1.771956842,0.00137931,North America,Climate
+C20,1995,2020,2021,Czech Republic,Bohemia,50.065,14.485,Coleoptera,Chrysomelidae,Gastrophysa viridula,Field,Decline,-0.71,611,-1.237874356,0.001636661,Europe,Multiple
+C20,1995,2020,2021,Czech Republic,Bohemia,50.065,14.485,Coleoptera,Chrysomelidae,Gastrophysa viridula,Field,Decline,-0.71,611,-1.237874356,0.001636661,Europe,Climate
+C20,1995,2020,2021,Czech Republic,Bohemia,50.065,14.485,Coleoptera,Chrysomelidae,Gastrophysa viridula,Field,Decline,-0.71,611,-1.237874356,0.001636661,Europe,Habitat
+C21,2012,1990,2010,Belgium,Nationwide (1-km² grid),50.8503,4.3517,Coleoptera,Coccinellidae,Adalia bipunctata,Field,Decline,-0.3,1419,-0.356674944,0.000705,Europe,Invasives
+C21,2012,1990,2010,United Kingdom,Great Britain (nationwide),52.3552,-1.1743,Coleoptera,Coccinellidae,Adalia bipunctata,Field,Decline,-0.44,1746,-0.579818495,0.000573,Europe,Invasives
+C30,1999,2018,2022,USA,Southern Michigan,42.593,-84.375,Coleoptera,Scarabaeidae,Popillia japonica,Field,Decline,-0.732,60,-1.316768298,0.016666667,North America,Multiple
+C30,1999,2018,2022,USA,Southern Michigan,42.593,-84.375,Coleoptera,Scarabaeidae,Popillia japonica,Field,Decline,-0.732,60,-1.316768298,0.016666667,North America,Pathogens
+C30,1999,2018,2022,USA,Southern Michigan,42.593,-84.375,Coleoptera,Scarabaeidae,Popillia japonica,Field,Decline,-0.732,60,-1.316768298,0.016666667,North America,Pesticides
+C91,2006,2008,2011,UK,Eastern England,56.8954,2.5415,Coleoptera,Coccinellidae,Adalia bipunctata,Field,Decline,-0.73,7,-1.30933332,0.142857143,Europe,Invasives
+C91,2006,2008,2011,UK,Eastern England,56.8954,2.5415,Coleoptera,Coccinellidae,Coccinella septempunctata,Field,Decline,-0.81,7,-1.660731207,0.142857143,Europe,Invasives
+C103,2007,2009,2011,China,Beijing,40.3614,116.3376,Coleoptera,Curculionidae,Multiple,Field,Decline,-0.593,52,-0.898942094,0.019230769,Asia,Multiple
+C103,2007,2009,2011,China,Beijing,40.3614,116.3376,Coleoptera,Curculionidae,Multiple,Field,Decline,-0.593,52,-0.898942094,0.019230769,Asia,Habitat
+C103,2007,2009,2011,China,Beijing,40.3614,116.3376,Coleoptera,Curculionidae,Multiple,Field,Decline,-0.593,52,-0.898942094,0.019230769,Asia,Urbanization
+C485,1974,1999,2001,USA,"Welder Wildlife Refuge, San Patricio Co., TX",28.0863,-97.4321,Coleoptera,Scarabaeidae,Boreocanthon ebenus,Field,Decline,-0.923,14,-2.563949857,0.071428571,North America,Multiple
+C485,1974,1999,2001,USA,"Welder Wildlife Refuge, San Patricio Co., TX",28.0863,-97.4321,Coleoptera,Scarabaeidae,Boreocanthon ebenus,Field,Decline,-0.923,14,-2.563949857,0.071428571,North America,Habitat
+C485,1974,1999,2001,USA,"Welder Wildlife Refuge, San Patricio Co., TX",28.0863,-97.4321,Coleoptera,Scarabaeidae,Boreocanthon ebenus,Field,Decline,-0.923,14,-2.563949857,0.071428571,North America,Climate
+C485,1974,1999,2001,USA,"Welder Wildlife Refuge, San Patricio Co., TX",28.0863,-97.4321,Coleoptera,Scarabaeidae,Boreocanthon ebenus,Field,Decline,-0.923,14,-2.563949857,0.071428571,North America,Invasives
+C485,1974,1999,2001,USA,"Welder Wildlife Refuge, San Patricio Co., TX",28.0863,-97.4321,Coleoptera,Scarabaeidae,Melanocanthon bispinatus,Field,Decline,-0.923,14,-2.563949857,0.071428571,North America,Multiple
+C485,1974,1999,2001,USA,"Welder Wildlife Refuge, San Patricio Co., TX",28.0863,-97.4321,Coleoptera,Scarabaeidae,Melanocanthon bispinatus,Field,Decline,-0.923,14,-2.563949857,0.071428571,North America,Habitat
+C485,1974,1999,2001,USA,"Welder Wildlife Refuge, San Patricio Co., TX",28.0863,-97.4321,Coleoptera,Scarabaeidae,Melanocanthon bispinatus,Field,Decline,-0.923,14,-2.563949857,0.071428571,North America,Climate
+C485,1974,1999,2001,USA,"Welder Wildlife Refuge, San Patricio Co., TX",28.0863,-97.4321,Coleoptera,Scarabaeidae,Melanocanthon bispinatus,Field,Decline,-0.923,14,-2.563949857,0.071428571,North America,Invasives
+C485,1974,1999,2001,USA,"Welder Wildlife Refuge, San Patricio Co., TX",28.0863,-97.4321,Coleoptera,Scarabaeidae,Glaphyrocanthon viridis,Field,Decline,-0.983,117,-4.074541935,0.008547009,North America,Multiple
+C485,1974,1999,2001,USA,"Welder Wildlife Refuge, San Patricio Co., TX",28.0863,-97.4321,Coleoptera,Scarabaeidae,Glaphyrocanthon viridis,Field,Decline,-0.983,117,-4.074541935,0.008547009,North America,Habitat
+C485,1974,1999,2001,USA,"Welder Wildlife Refuge, San Patricio Co., TX",28.0863,-97.4321,Coleoptera,Scarabaeidae,Glaphyrocanthon viridis,Field,Decline,-0.983,117,-4.074541935,0.008547009,North America,Climate
+C485,1974,1999,2001,USA,"Welder Wildlife Refuge, San Patricio Co., TX",28.0863,-97.4321,Coleoptera,Scarabaeidae,Glaphyrocanthon viridis,Field,Decline,-0.983,117,-4.074541935,0.008547009,North America,Invasives
+C592,2003,2007,2009,USA,"Ozark National Forest, Arkansas（Ozark Mountains）",35.715,93.716,Coleoptera,Cerambycidae,Enaphalodes rufulus,Field,Decline,-0.96,98,-3.218875825,0.010204082,North America,Multiple
+C592,2003,2007,2009,USA,"Ozark National Forest, Arkansas（Ozark Mountains）",35.715,93.716,Coleoptera,Cerambycidae,Enaphalodes rufulus,Field,Decline,-0.96,98,-3.218875825,0.010204082,North America,Habitat
+C592,2003,2007,2009,USA,"Ozark National Forest, Arkansas（Ozark Mountains）",35.715,93.716,Coleoptera,Cerambycidae,Enaphalodes rufulus,Field,Decline,-0.96,98,-3.218875825,0.010204082,North America,Climate
+C710,1995,2013,2015,USA,"Richmond, Cache Co., Northern Utah (Bear River Range)",41.9391,-111.7699,Coleoptera,Chrysomelidae,Aphthona spp.,Field,Decline,-0.93,20,-2.659260037,0.05,North America,Habitat
+C1221,1976,2010,2014,Czech Republic,Central Bohemia (western Czech Republic),49.9167,14.5833,Coleoptera,Coccinellidae,Adalia bipunctata,Field,Decline,-0.5,1721,-0.693147181,0.000581,Europe,Multiple
+C1221,1976,2010,2014,Czech Republic,Central Bohemia (western Czech Republic),49.9167,14.5833,Coleoptera,Coccinellidae,Adalia bipunctata,Field,Decline,-0.5,1721,-0.693147181,0.000581,Europe,Habitat
+C1221,1976,2010,2014,Czech Republic,Central Bohemia (western Czech Republic),49.9167,14.5833,Coleoptera,Coccinellidae,Adalia bipunctata,Field,Decline,-0.5,1721,-0.693147181,0.000581,Europe,Invasives
+C1221,1976,2010,2014,Czech Republic,Central Bohemia (western Czech Republic),49.9167,14.5833,Coleoptera,Coccinellidae,Coccinella quinquepunctata,Field,Decline,-0.675,497,-1.123930097,0.002012072,Europe,Habitat
+C1221,1976,2010,2014,Czech Republic,Central Bohemia (western Czech Republic),49.9167,14.5833,Coleoptera,Coccinellidae,Coccinella septempunctata,Field,Decline,-0.524,4744,-0.742337425,0.000211,Europe,Habitat
+C1221,1976,2010,2014,Czech Republic,Central Bohemia (western Czech Republic),49.9167,14.5833,Coleoptera,Coccinellidae,Propylea quatuordecimpunctata,Field,Decline,-0.592,1304,-0.896488105,0.000767,Europe,Habitat
+C1822,2005,2005,2013,Czech Republic,"Pradƒõd National Nature Reserve, Hrub√Ω Jesen√≠k Mts",50.6831,17.2309,Coleoptera,Carabidae,Carabus sylvestris,Field,Decline,0.624,307,0.4848922417394862,0.003257328990228,Europe,Urbanization
+C1822,2005,2005,2013,Czech Republic,"Pradƒõd National Nature Reserve, Hrub√Ω Jesen√≠k Mts",50.6831,17.2309,Coleoptera,Carabidae,Trechus striatulus,Field,Decline,-0.417,19,-0.5395680926316446,0.0526315789473684,Europe,Urbanization
+L3,1900,2019,2022,Austria; Czech Republic; Germany; France; Italy; Switzerland; Slovakia,Central Europe,50.1434,12.3587,Lepidoptera,Zygaenidae,Jordanita budensis,Historical + Field,Decline,-0.729,164,-1.305636458,0.006097561,Europe,Multiple
+L3,1900,2019,2022,Austria; Czech Republic; Germany; France; Italy; Switzerland; Slovakia,Central Europe,50.1434,12.3587,Lepidoptera,Zygaenidae,Jordanita budensis,Historical + Field,Decline,-0.729,164,-1.305636458,0.006097561,Europe,Habitat
+L3,1900,2019,2022,Austria; Czech Republic; Germany; France; Italy; Switzerland; Slovakia,Central Europe,50.1434,12.3587,Lepidoptera,Zygaenidae,Jordanita budensis,Historical + Field,Decline,-0.729,164,-1.305636458,0.006097561,Europe,Urbanization
+L3,1900,2019,2022,Austria; Czech Republic; Germany; France; Italy; Switzerland; Slovakia,Central Europe,50.1434,12.3587,Lepidoptera,Zygaenidae,Jordanita budensis,Historical + Field,Decline,-0.729,164,-1.305636458,0.006097561,Europe,Pesticides
+L3,1900,2019,2022,Austria; Czech Republic; Germany; France; Italy; Switzerland; Slovakia,Central Europe,50.1434,12.3587,Lepidoptera,Zygaenidae,Jordanita notata,Historical + Field,Decline,-0.251,652,-0.289016295,0.001533742,Europe,Multiple
+L3,1900,2019,2022,Austria; Czech Republic; Germany; France; Italy; Switzerland; Slovakia,Central Europe,50.1434,12.3587,Lepidoptera,Zygaenidae,Jordanita notata,Historical + Field,Decline,-0.251,652,-0.289016295,0.001533742,Europe,Habitat
+L3,1900,2019,2022,Austria; Czech Republic; Germany; France; Italy; Switzerland; Slovakia,Central Europe,50.1434,12.3587,Lepidoptera,Zygaenidae,Jordanita notata,Historical + Field,Decline,-0.251,652,-0.289016295,0.001533742,Europe,Urbanization
+L3,1900,2019,2022,Austria; Czech Republic; Germany; France; Italy; Switzerland; Slovakia,Central Europe,50.1434,12.3587,Lepidoptera,Zygaenidae,Jordanita notata,Historical + Field,Decline,-0.251,652,-0.289016295,0.001533742,Europe,Pesticides
+L3,1900,2019,2022,Austria; Czech Republic; Germany; France; Italy; Switzerland; Slovakia,Central Europe,50.1434,12.3587,Lepidoptera,Zygaenidae,Jordanita graeca,Historical + Field,Decline,-0.971,91,-3.540459449,0.010989011,Europe,Multiple
+L3,1900,2019,2022,Austria; Czech Republic; Germany; France; Italy; Switzerland; Slovakia,Central Europe,50.1434,12.3587,Lepidoptera,Zygaenidae,Jordanita graeca,Historical + Field,Decline,-0.971,91,-3.540459449,0.010989011,Europe,Habitat
+L3,1900,2019,2022,Austria; Czech Republic; Germany; France; Italy; Switzerland; Slovakia,Central Europe,50.1434,12.3587,Lepidoptera,Zygaenidae,Jordanita graeca,Historical + Field,Decline,-0.971,91,-3.540459449,0.010989011,Europe,Urbanization
+L3,1900,2019,2022,Austria; Czech Republic; Germany; France; Italy; Switzerland; Slovakia,Central Europe,50.1434,12.3587,Lepidoptera,Zygaenidae,Jordanita graeca,Historical + Field,Decline,-0.971,91,-3.540459449,0.010989011,Europe,Pesticides
+L3,1900,2019,2022,Austria; Czech Republic; Germany; France; Italy; Switzerland; Slovakia,Central Europe,50.1434,12.3587,Lepidoptera,Zygaenidae,Jordanita chloros,Historical + Field,Decline,-0.311,283,-0.372514008,0.003533569,Europe,Multiple
+L3,1900,2019,2022,Austria; Czech Republic; Germany; France; Italy; Switzerland; Slovakia,Central Europe,50.1434,12.3587,Lepidoptera,Zygaenidae,Jordanita chloros,Historical + Field,Decline,-0.311,283,-0.372514008,0.003533569,Europe,Habitat
+L3,1900,2019,2022,Austria; Czech Republic; Germany; France; Italy; Switzerland; Slovakia,Central Europe,50.1434,12.3587,Lepidoptera,Zygaenidae,Jordanita chloros,Historical + Field,Decline,-0.311,283,-0.372514008,0.003533569,Europe,Urbanization
+L3,1900,2019,2022,Austria; Czech Republic; Germany; France; Italy; Switzerland; Slovakia,Central Europe,50.1434,12.3587,Lepidoptera,Zygaenidae,Jordanita chloros,Historical + Field,Decline,-0.311,283,-0.372514008,0.003533569,Europe,Pesticides
+L3,1900,2019,2022,Austria; Czech Republic; Germany; France; Italy; Switzerland; Slovakia,Central Europe,50.1434,12.3587,Lepidoptera,Zygaenidae,Jordanita globulariae,Historical + Field,Decline,-0.626,1751,-0.983499482,0.000571,Europe,Multiple
+L3,1900,2019,2022,Austria; Czech Republic; Germany; France; Italy; Switzerland; Slovakia,Central Europe,50.1434,12.3587,Lepidoptera,Zygaenidae,Jordanita globulariae,Historical + Field,Decline,-0.626,1751,-0.983499482,0.000571,Europe,Habitat
+L3,1900,2019,2022,Austria; Czech Republic; Germany; France; Italy; Switzerland; Slovakia,Central Europe,50.1434,12.3587,Lepidoptera,Zygaenidae,Jordanita globulariae,Historical + Field,Decline,-0.626,1751,-0.983499482,0.000571,Europe,Urbanization
+L3,1900,2019,2022,Austria; Czech Republic; Germany; France; Italy; Switzerland; Slovakia,Central Europe,50.1434,12.3587,Lepidoptera,Zygaenidae,Jordanita globulariae,Historical + Field,Decline,-0.626,1751,-0.983499482,0.000571,Europe,Pesticides
+L3,1900,2019,2022,Austria; Czech Republic; Germany; France; Italy; Switzerland; Slovakia,Central Europe,50.1434,12.3587,Lepidoptera,Zygaenidae,Jordanita subsolana,Historical + Field,Decline,-0.5,712,-0.693147181,0.001404494,Europe,Multiple
+L3,1900,2019,2022,Austria; Czech Republic; Germany; France; Italy; Switzerland; Slovakia,Central Europe,50.1434,12.3587,Lepidoptera,Zygaenidae,Jordanita subsolana,Historical + Field,Decline,-0.5,712,-0.693147181,0.001404494,Europe,Habitat
+L3,1900,2019,2022,Austria; Czech Republic; Germany; France; Italy; Switzerland; Slovakia,Central Europe,50.1434,12.3587,Lepidoptera,Zygaenidae,Jordanita subsolana,Historical + Field,Decline,-0.5,712,-0.693147181,0.001404494,Europe,Urbanization
+L3,1900,2019,2022,Austria; Czech Republic; Germany; France; Italy; Switzerland; Slovakia,Central Europe,50.1434,12.3587,Lepidoptera,Zygaenidae,Jordanita subsolana,Historical + Field,Decline,-0.5,712,-0.693147181,0.001404494,Europe,Pesticides
+L8,2008,2012,2014,Ireland,Nationwide,53.4129,-8.2439,Lepidoptera,Pieridae,Pieris rapae,Field,Decline,-0.29,399,-0.342490309,0.002506266,Europe,Climate
+L8,2008,2012,2014,Ireland,Nationwide,53.4129,-8.2439,Lepidoptera,Nymphalidae,Pararge aegeria,Field,Decline,-0.3,447,-0.356674944,0.002237136,Europe,Climate
+L8,2008,2012,2014,Ireland,Nationwide,53.4129,-8.2439,Lepidoptera,Lycaenidae,Celastrina argiolus,Field,Decline,-0.36,211,-0.446287103,0.004739336,Europe,Climate
+L8,2008,2012,2014,Ireland,Nationwide,53.4129,-8.2439,Lepidoptera,Pieridae,Leptidea juvernica,Field,Decline,-0.43,227,-0.562118918,0.004405286,Europe,Climate
+L8,2008,2012,2014,Ireland,Nationwide,53.4129,-8.2439,Lepidoptera,Nymphalidae,Inachis io,Field,Decline,-0.41,421,-0.527632742,0.002375297,Europe,Climate
+L8,2008,2012,2014,Ireland,Nationwide,53.4129,-8.2439,Lepidoptera,Pieridae,Pieris brassicae,Field,Decline,-0.53,416,-0.755022584,0.002403846,Europe,Climate
+L22,1995,2018,2020,Canade,Ontario – Long Point peninsula (Tip & Breakwater),42.5833,-80.4167,Lepidoptera,Nymphalidae,Danaus plexippus,Historical,Stable,-0.726,24,-1.294627173,0.041666667,North America,Multiple
+L22,1995,2018,2020,Canade,Ontario – Long Point peninsula (Tip & Breakwater),42.5833,-80.4167,Lepidoptera,Nymphalidae,Danaus plexippus,Historical,Stable,-0.726,24,-1.294627173,0.041666667,North America,Habitat
+L22,1995,2018,2020,Canade,Ontario – Long Point peninsula (Tip & Breakwater),42.5833,-80.4167,Lepidoptera,Nymphalidae,Danaus plexippus,Historical,Stable,-0.726,24,-1.294627173,0.041666667,North America,Pesticides
+L22,1995,2018,2020,Canade,Ontario – Long Point peninsula (Tip & Breakwater),42.5833,-80.4167,Lepidoptera,Nymphalidae,Danaus plexippus,Historical,Stable,-0.726,24,-1.294627173,0.041666667,North America,Climate
+L23,1968,1998,2002,UK,Great Britain,55.3781,-3.436,Lepidoptera,Erebidae,Arctia caja,Historical,Decline,-0.28,406,-0.328504067,0.002463054,Europe,Climate
+L39,2003,2020,2020,USA,Louisiana sugarcane region,30.8031,-92.4938,Lepidoptera,Crambidae,Diatraea saccharalis,Field,Decline,-0.7,813,-1.203972804,0.001230012,North America,Pesticides
+L50,1985,2015,2020,USA,"Upper Midwest (ND, SD, MN, IA, WI, MI)",44.1023,-95.0751,Lepidoptera,Hesperiidae,Oarisma poweshiek,Historical + Field (aggregated occurrence records; extensive surveys; ENM),Decline,-0.954,218,-3.079113882,0.004587156,North America,Multiple
+L50,1985,2015,2020,USA,"Upper Midwest (ND, SD, MN, IA, WI, MI)",44.1023,-95.0751,Lepidoptera,Hesperiidae,Oarisma poweshiek,Historical + Field (aggregated occurrence records; extensive surveys; ENM),Decline,-0.954,218,-3.079113882,0.004587156,North America,Habitat
+L50,1985,2015,2020,USA,"Upper Midwest (ND, SD, MN, IA, WI, MI)",44.1023,-95.0751,Lepidoptera,Hesperiidae,Oarisma poweshiek,Historical + Field (aggregated occurrence records; extensive surveys; ENM),Decline,-0.954,218,-3.079113882,0.004587156,North America,Climate
+L50,1985,2015,2020,USA,"Upper Midwest (ND, SD, MN, IA, WI, MI)",44.1023,-95.0751,Lepidoptera,Hesperiidae,Oarisma poweshiek,Historical + Field (aggregated occurrence records; extensive surveys; ENM),Decline,-0.954,218,-3.079113882,0.004587156,North America,Pesticides
+L64,1997,2020,2022,Finland,"Archipelago Sea, Southwest Finland",59.9147,21.8775,Lepidoptera,Papilionidae,Parnassius apollo,Historical + Field,Decline,-0.73,409,-1.30933332,0.002444988,Europe,Multiple
+L64,1997,2020,2022,Finland,"Archipelago Sea, Southwest Finland",59.9147,21.8775,Lepidoptera,Papilionidae,Parnassius apollo,Historical + Field,Decline,-0.73,409,-1.30933332,0.002444988,Europe,Habitat
+L64,1997,2020,2022,Finland,"Archipelago Sea, Southwest Finland",59.9147,21.8775,Lepidoptera,Papilionidae,Parnassius apollo,Historical + Field,Decline,-0.73,409,-1.30933332,0.002444988,Europe,Climate
+L89,1988,1992,2000,Canada,Northern New Brunswick (managed stand; high‚Äìsevere),47.4,-67.67,Lepidoptera,Tortricidae,Zeiraphera canadensis,Field,Decline,-0.98,5,-3.912023005,0.2,North America,Habitat
+L122,1994,2017,2018,USA,"Cross Creek, Alachua County, North-central Florida",29.5297,-82.198,Lepidoptera,Nymphalidae,Danaus plexippus,Field,Decline,-0.88,865,-2.120263536,0.001156069,North America,Multiple
+L122,1994,2017,2018,USA,"Cross Creek, Alachua County, North-central Florida",29.5297,-82.198,Lepidoptera,Nymphalidae,Danaus plexippus,Field,Decline,-0.88,865,-2.120263536,0.001156069,North America,Habitat
+L122,1994,2017,2018,USA,"Cross Creek, Alachua County, North-central Florida",29.5297,-82.198,Lepidoptera,Nymphalidae,Danaus plexippus,Field,Decline,-0.88,865,-2.120263536,0.001156069,North America,Pesticides
+L138,2016,2017,2024,UK,"Warton Crag Nature Reserve, Lancashire（Morecambe Bay Limestones）",54.1484,-2.7799,Lepidoptera,Nymphalidae,Boloria selene,Field,Decline,0.109,356,0.103458708,0.002808989,Europe,Multiple
+L138,2016,2017,2024,UK,"Warton Crag Nature Reserve, Lancashire（Morecambe Bay Limestones）",54.1484,-2.7799,Lepidoptera,Nymphalidae,Boloria selene,Field,Decline,0.109,356,0.103458708,0.002808989,Europe,Habitat
+L138,2016,2017,2024,UK,"Warton Crag Nature Reserve, Lancashire（Morecambe Bay Limestones）",54.1484,-2.7799,Lepidoptera,Nymphalidae,Boloria selene,Field,Decline,0.109,356,0.103458708,0.002808989,Europe,Climate
+L138,2016,2017,2024,UK,"Warton Crag Nature Reserve, Lancashire（Morecambe Bay Limestones）",54.1484,-2.7799,Lepidoptera,Nymphalidae,Boloria euphrosyne,Field,Decline,0.338,131,0.291175962,0.007633588,Europe,Multiple
+L138,2016,2017,2024,UK,"Warton Crag Nature Reserve, Lancashire（Morecambe Bay Limestones）",54.1484,-2.7799,Lepidoptera,Nymphalidae,Boloria euphrosyne,Field,Decline,0.338,131,0.291175962,0.007633588,Europe,Habitat
+L138,2016,2017,2024,UK,"Warton Crag Nature Reserve, Lancashire（Morecambe Bay Limestones）",54.1484,-2.7799,Lepidoptera,Nymphalidae,Boloria euphrosyne,Field,Decline,0.338,131,0.291175962,0.007633588,Europe,Climate
+L157,1972,2014,2016,USA,"Northern California elevational transect (10 sites: Suisun Marsh, Gates Canyon, West Sacramento, North Sacramento, Rancho Cordova, Washington, Lang Crossing, Castle Peak, Donner Pass, Sierra Valley); plus CA coastal overwintering counties (Marin, Monterey, San Luis Obispo, San Diego, Santa Barbara, Santa Cruz).",39.808,-121.2271,Lepidoptera,Nymphalidae,Danaus plexippus,Field,Decline,-0.45,10,-0.597837001,0.1,North America,Habitat
+L295,2011,2015,2017,Czech Republic,Pardubice District (Eastern Bohemia),50.05,15.5667,Lepidoptera,Lycaenidae,Phengaris teleius,Field,Decline (projected),-0.193,6122,-0.214431611,0.000163,Europe,Multiple
+L295,2011,2015,2017,Czech Republic,Pardubice District (Eastern Bohemia),50.05,15.5667,Lepidoptera,Lycaenidae,Phengaris teleius,Field,Decline (projected),-0.193,6122,-0.214431611,0.000163,Europe,Habitat
+L295,2011,2015,2017,Czech Republic,Pardubice District (Eastern Bohemia),50.05,15.5667,Lepidoptera,Lycaenidae,Phengaris teleius,Field,Decline (projected),-0.193,6122,-0.214431611,0.000163,Europe,Urbanization
+L295,2011,2015,2017,Czech Republic,Pardubice District (Eastern Bohemia),50.05,15.5667,Lepidoptera,Lycaenidae,Phengaris nausithous,Field,Decline (projected),-0.146,1627,-0.157824085,0.000615,Europe,Multiple
+L295,2011,2015,2017,Czech Republic,Pardubice District (Eastern Bohemia),50.05,15.5667,Lepidoptera,Lycaenidae,Phengaris nausithous,Field,Decline (projected),-0.146,1627,-0.157824085,0.000615,Europe,Habitat
+L295,2011,2015,2017,Czech Republic,Pardubice District (Eastern Bohemia),50.05,15.5667,Lepidoptera,Lycaenidae,Phengaris nausithous,Field,Decline (projected),-0.146,1627,-0.157824085,0.000615,Europe,Urbanization
+L304,2002,2013,2015,USA,Northern Wisconsin (muskegs NE/NC/NW; kettleholes; Lake Superior coastal peatlands),46.095,-90.385,Lepidoptera,Nymphalidae,Coenonympha tullia,Field,Decline,-0.367,94,-0.457284857,0.010638298,North America,Multiple
+L304,2002,2013,2015,USA,Northern Wisconsin (muskegs NE/NC/NW; kettleholes; Lake Superior coastal peatlands),46.095,-90.385,Lepidoptera,Nymphalidae,Coenonympha tullia,Field,Decline,-0.367,94,-0.457284857,0.010638298,North America,Habitat
+L304,2002,2013,2015,USA,Northern Wisconsin (muskegs NE/NC/NW; kettleholes; Lake Superior coastal peatlands),46.095,-90.385,Lepidoptera,Nymphalidae,Coenonympha tullia,Field,Decline,-0.367,94,-0.457284857,0.010638298,North America,Climate
+L304,2002,2013,2015,USA,Northern Wisconsin (muskegs NE/NC/NW; kettleholes; Lake Superior coastal peatlands),46.095,-90.385,Lepidoptera,Lycaenidae,Lycaena epixanthe,Field,Decline,-0.223,97,-0.252314929,0.010309278,North America,Multiple
+L304,2002,2013,2015,USA,Northern Wisconsin (muskegs NE/NC/NW; kettleholes; Lake Superior coastal peatlands),46.095,-90.385,Lepidoptera,Lycaenidae,Lycaena epixanthe,Field,Decline,-0.223,97,-0.252314929,0.010309278,North America,Habitat
+L304,2002,2013,2015,USA,Northern Wisconsin (muskegs NE/NC/NW; kettleholes; Lake Superior coastal peatlands),46.095,-90.385,Lepidoptera,Lycaenidae,Lycaena epixanthe,Field,Decline,-0.223,97,-0.252314929,0.010309278,North America,Climate
+L304,2002,2013,2015,USA,Northern Wisconsin (muskegs NE/NC/NW; kettleholes; Lake Superior coastal peatlands),46.095,-90.385,Lepidoptera,Nymphalidae,Boloria montinus,Field,Decline,-0.351,88,-0.432322562,0.011363636,North America,Multiple
+L304,2002,2013,2015,USA,Northern Wisconsin (muskegs NE/NC/NW; kettleholes; Lake Superior coastal peatlands),46.095,-90.385,Lepidoptera,Nymphalidae,Boloria montinus,Field,Decline,-0.351,88,-0.432322562,0.011363636,North America,Habitat
+L304,2002,2013,2015,USA,Northern Wisconsin (muskegs NE/NC/NW; kettleholes; Lake Superior coastal peatlands),46.095,-90.385,Lepidoptera,Nymphalidae,Boloria montinus,Field,Decline,-0.351,88,-0.432322562,0.011363636,North America,Climate
+L494,2013,2017,2019,Brazil,"Planaltina, Federal District (Cerrado)",-15.5917,-47.7083,Lepidoptera,Noctuidae,Anicla infecta,Field,Decline,-0.895,459,-2.253794929,0.002178649,South America,Climate
+L494,2013,2017,2019,Brazil,"Planaltina, Federal District (Cerrado)",-15.5917,-47.7083,Lepidoptera,Noctuidae,Elaphria agrotina,Field,Decline,-0.964,1809,-3.324236341,0.000553,South America,Climate
+L494,2013,2017,2019,Brazil,"Planaltina, Federal District (Cerrado)",-15.5917,-47.7083,Lepidoptera,Noctuidae,Spodoptera frugiperda,Field,Decline,-0.92,2451,-2.525728644,0.000408,South America,Climate
+L818,1992,2015,2017,Australia,Northern New South Wales ,-30.1755,149.6044,Lepidoptera,Noctuidae,Helicoverpa punctigera,Field,Decline,-0.611,248,-0.944175935,0.004032258,Oceania,Multiple
+L818,1992,2015,2017,Australia,Northern New South Wales ,-30.1755,149.6044,Lepidoptera,Noctuidae,Helicoverpa punctigera,Field,Decline,-0.611,248,-0.944175935,0.004032258,Oceania,Habitat
+L818,1992,2015,2017,Australia,Northern New South Wales ,-30.1755,149.6044,Lepidoptera,Noctuidae,Helicoverpa punctigera,Field,Decline,-0.611,248,-0.944175935,0.004032258,Oceania,Climate
+L1254,2014,2015,2019,Belgium,Northern Belgium (multi-site),50.4481,4.806,Lepidoptera,Multiple,Assemblage: Butterflies (multiple spp.),Field,Decline,-0.84,4413,-1.832581464,0.000227,Europe,Multiple
+L1254,2014,2015,2019,Belgium,Northern Belgium (multi-site),50.4481,4.806,Lepidoptera,Multiple,Assemblage: Butterflies (multiple spp.),Field,Decline,-0.84,4413,-1.832581464,0.000227,Europe,Urbanization
+L1254,2014,2015,2019,Belgium,Northern Belgium (multi-site),50.4481,4.806,Lepidoptera,Multiple,Assemblage: Butterflies (multiple spp.),Field,Decline,-0.84,4413,-1.832581464,0.000227,Europe,Climate
+L1254,2014,2015,2019,Belgium,Northern Belgium (multi-site),50.4481,4.806,Lepidoptera,Multiple,Assemblage: Macro-moths (multiple spp.),Field,Decline,-0.89,3067,-2.207274913,0.000326,Europe,Multiple
+L1254,2014,2015,2019,Belgium,Northern Belgium (multi-site),50.4481,4.806,Lepidoptera,Multiple,Assemblage: Macro-moths (multiple spp.),Field,Decline,-0.89,3067,-2.207274913,0.000326,Europe,Urbanization
+L1254,2014,2015,2019,Belgium,Northern Belgium (multi-site),50.4481,4.806,Lepidoptera,Multiple,Assemblage: Macro-moths (multiple spp.),Field,Decline,-0.89,3067,-2.207274913,0.000326,Europe,Climate
+L1364,2020,2021,2021,USA,"California, Santa Clara County（Mountain View & Palo Alto；San Francisco South Bay）",37.414,-122.1135,Lepidoptera,Multiple,Danaus plexippus,Field,Decline,-0.998,499,-6.214608098,0.002004008,North America,Multiple
+L1364,2020,2021,2021,USA,"California, Santa Clara County（Mountain View & Palo Alto；San Francisco South Bay）",37.414,-122.1135,Lepidoptera,Multiple,Danaus plexippus,Field,Decline,-0.998,499,-6.214608098,0.002004008,North America,Habitat
+L1364,2020,2021,2021,USA,"California, Santa Clara County（Mountain View & Palo Alto；San Francisco South Bay）",37.414,-122.1135,Lepidoptera,Multiple,Danaus plexippus,Field,Decline,-0.998,499,-6.214608098,0.002004008,North America,Pathogens
+L2366,2017,2018,2020,Brazil,"Campos do Jordão, São Paulo, Mantiqueira Range",-22.7167,-45.5167,Lepidoptera,Nymphalidae,Pampasatyrus glaucope boenninghauseni,Field,Decline,-0.309,979,-0.369615455,0.00102145,South America,Multiple
+L2366,2017,2018,2020,Brazil,"Campos do Jordão, São Paulo, Mantiqueira Range",-22.7167,-45.5167,Lepidoptera,Nymphalidae,Pampasatyrus glaucope boenninghauseni,Field,Decline,-0.309,979,-0.369615455,0.00102145,South America,Habitat
+L2366,2017,2018,2020,Brazil,"Campos do Jordão, São Paulo, Mantiqueira Range",-22.7167,-45.5167,Lepidoptera,Nymphalidae,Pampasatyrus glaucope boenninghauseni,Field,Decline,-0.309,979,-0.369615455,0.00102145,South America,Urbanization
+L2366,2017,2018,2020,Brazil,"Campos do Jordão, São Paulo, Mantiqueira Range",-22.7167,-45.5167,Lepidoptera,Nymphalidae,Pampasatyrus glaucope boenninghauseni,Field,Decline,-0.309,979,-0.369615455,0.00102145,South America,Invasives
+L2366,2017,2018,2020,Brazil,"Campos do Jordão, São Paulo, Mantiqueira Range",-22.7167,-45.5167,Lepidoptera,Nymphalidae,Pampasatyrus gyrtone biezankoi,Field,Decline,-0.563,46,-0.827822084,0.02173913,South America,Multiple
+L2366,2017,2018,2020,Brazil,"Campos do Jordão, São Paulo, Mantiqueira Range",-22.7167,-45.5167,Lepidoptera,Nymphalidae,Pampasatyrus gyrtone biezankoi,Field,Decline,-0.563,46,-0.827822084,0.02173913,South America,Habitat
+L2366,2017,2018,2020,Brazil,"Campos do Jordão, São Paulo, Mantiqueira Range",-22.7167,-45.5167,Lepidoptera,Nymphalidae,Pampasatyrus gyrtone biezankoi,Field,Decline,-0.563,46,-0.827822084,0.02173913,South America,Urbanization
+L2366,2017,2018,2020,Brazil,"Campos do Jordão, São Paulo, Mantiqueira Range",-22.7167,-45.5167,Lepidoptera,Nymphalidae,Pampasatyrus gyrtone biezankoi,Field,Decline,-0.563,46,-0.827822084,0.02173913,South America,Invasives
