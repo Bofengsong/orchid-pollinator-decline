@@ -1,24 +1,11 @@
 # R packages
 
-The scripts use the following packages:
+Validated with R 4.5.1. Required packages:
 
-- `cowplot`
-- `dplyr`
-- `ggplot2`
-- `janitor`
-- `metafor`
-- `patchwork`
-- `purrr`
-- `readr`
-- `readxl`
-- `rnaturalearth`
-- `scales`
-- `sf`
-- `stringr`
-- `terra`
-- `tibble`
-- `tidyr`
+```r
+install.packages(c("metafor", "readr", "dplyr", "stringr", "tidyr", "tibble",
+                   "sf", "terra", "ggplot2", "patchwork", "purrr", "scales",
+                   "png", "RColorBrewer"))
+```
 
-Base R package `grid` is also used. Package versions should be captured in an
-archival release before publication.
-
+`rstudioapi` is optional and helps locate an open script in RStudio. Package versions from the validation run are recorded in `outputs/sessionInfo.txt`.

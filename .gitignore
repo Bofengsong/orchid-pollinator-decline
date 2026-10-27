@@ -3,6 +3,5 @@
 .RData
 .Ruserdata
 .Rproj.user/
-outputs/*
-!outputs/.gitkeep
-
+Rplots.pdf
+*.log

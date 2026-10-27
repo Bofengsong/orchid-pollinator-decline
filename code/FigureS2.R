@@ -1,0 +1,113 @@
+# FigureS2：沿用已固定的环境及兰花分布资料。
+local({
+# 在 RStudio 打开本脚本，点击 Source；也可以在仓库根目录用 Rscript 运行。
+paths <- unlist(lapply(sys.frames(), function(f) f$ofile), use.names = FALSE)
+args <- grep("^--file=", commandArgs(FALSE), value = TRUE)
+paths <- c(rev(paths), sub("^--file=", "", args))
+if (requireNamespace("rstudioapi", quietly = TRUE) && rstudioapi::isAvailable()) {
+  paths <- c(paths, tryCatch(rstudioapi::getSourceEditorContext()$path,
+                            error = function(e) ""))
+}
+paths <- paths[!is.na(paths) & nzchar(paths)]
+dirs <- dirname(normalizePath(gsub("~+~", " ", paths, fixed = TRUE), mustWork = FALSE))
+candidates <- unique(c(dirs, dirname(dirs), getwd(), dirname(getwd()),
+                       getOption("chapter1.project_folder")))
+has_data <- function(p) all(file.exists(file.path(p, "data",
+                                      c("Final_data.csv", "Supporting_data.rds"))))
+found <- candidates[vapply(candidates, has_data, logical(1))]
+if (!length(found) && interactive()) {
+  message("请选择仓库 data 文件夹中的 Final_data.csv。")
+  selected <- file.choose()
+  candidate <- dirname(dirname(normalizePath(selected)))
+  if (has_data(candidate)) found <- candidate
+}
+if (!length(found)) stop("未找到 data/Final_data.csv 和 data/Supporting_data.rds，请完整下载仓库。")
+root <- normalizePath(found[1])
+data_dir <- file.path(root, "data")
+output_dir <- file.path(root, "outputs")
+dir.create(output_dir, showWarnings = FALSE)
+options(chapter1.project_folder = root)
+old_wd <- setwd(output_dir)
+on.exit(setwd(old_wd), add = TRUE)
+# Mac 使用自带 Quartz；避免未安装 XQuartz 时的 Cairo 报错。
+if (Sys.info()[["sysname"]] == "Darwin") options(bitmapType = "quartz")
+# 字体布局在临时设备中完成，避免额外生成 Rplots.pdf。
+grDevices::pdf(file = NULL)
+layout_device <- grDevices::dev.cur()
+on.exit({
+    if (!is.na(layout_device) && layout_device %in% grDevices::dev.list()) grDevices::dev.off(layout_device)
+}, add = TRUE)
+support <- readRDS(file.path(data_dir, "Supporting_data.rds"))
+suppressPackageStartupMessages({library(terra)
+    library(sf)
+    library(dplyr)
+    library(readr)
+    library(ggplot2)
+    library(patchwork)})
+world <- support$world
+save_all <- function(p,name,w,h) ggsave(paste0(name,'.png'),p,width=w,height=h,dpi=300,bg='white')
+paths <- c('pest','climate','habitat')
+titles <- c('Pesticide pressure layer','Climate pressure layer','Habitat modification layer')
+subtitles <- c('Normalised global pesticide risk score; 98th percentile capped','Normalised composite annual mean temperature and climatic water deficit',
+  'Normalised Global Human Modification index')
+pressure <- lapply(seq_along(paths),function(i){
+    r <- terra::unwrap(support$rasters[[paths[i]]])
+    if(ncell(r)>1e6) r <- aggregate(r,fact=max(1,round(sqrt(ncell(r)/260000))),fun=mean,na.rm=TRUE)
+    names(r)<-'value'
+    d<-as.data.frame(r,xy=TRUE,na.rm=TRUE)
+    d<-d[is.finite(d$value),]
+    if(nrow(d)>650000){set.seed(20260515)
+      d<-d[sample(nrow(d),650000),]}
+    ggplot(d,aes(x,y,fill=value))+geom_tile()+geom_sf(data=world,inherit.aes=FALSE,fill=NA,color='grey55',
+    linewidth=.14)+
+    scale_fill_gradientn(colors=c('#f7fbff','#c6dbef','#6baed6','#fd8d3c','#de2d26'),limits=c(0,1),oob=scales::squish,
+    name='Normalised pressure')+
+    coord_sf(xlim=c(-180,180),ylim=c(-60,85),expand=FALSE)+labs(title=titles[i],subtitle=subtitles[i])+
+    theme_void(base_size=12)+theme(legend.position='bottom',plot.title=element_text(face='bold',hjust=0),
+    plot.subtitle=element_text(hjust=0),plot.background=element_rect(fill='white',color=NA))
+})
+p2<-wrap_plots(pressure,ncol=1)+plot_annotation(tag_levels='a',tag_prefix='(',tag_suffix=')')
+save_all(p2,'FigureS2',11.4,15.6)
+
+# 保存后回到可见的图形设备，在 Plots / Quartz 中预览。
+if (layout_device %in% grDevices::dev.list()) grDevices::dev.off(layout_device)
+layout_device <- NA_integer_
+if (interactive()) {
+  visible_devices <- c("RStudioGD", "quartz", "windows", "X11", "X11cairo")
+  preview_ready <- TRUE
+  if (!names(grDevices::dev.cur()) %in% visible_devices) {
+    preview_ready <- tryCatch({
+        if (Sys.info()[["sysname"]] == "Darwin" && Sys.getenv("RSTUDIO") != "1") {
+          suppressWarnings(grDevices::quartz())
+      } else {
+          grDevices::dev.new()
+      }
+        TRUE
+    }, error = function(e) {
+        message("PNG已保存。当前R会话没有可用图形窗口；在RStudio或R.app中运行可预览。")
+        FALSE
+    })
+  }
+  if (preview_ready) {
+    # 预览按整张原图缩放，避免小Plots面板把森林图文字挤在一起。
+    preview_image <- png::readPNG("FigureS2.png", native = TRUE)
+    image_ratio <- nrow(preview_image) / ncol(preview_image)
+    preview_scale <- min(1, 1600 / max(dim(preview_image)))
+    if (preview_scale < 1) {
+      rows <- round(seq(1, nrow(preview_image), length.out = round(nrow(preview_image) * preview_scale)))
+      cols <- round(seq(1, ncol(preview_image), length.out = round(ncol(preview_image) * preview_scale)))
+      # nativeRaster按行储存像素，不能直接用普通矩阵的行列下标缩放。
+      pixels <- rep((rows - 1L) * ncol(preview_image), each = length(cols)) + rep(cols, times = length(rows))
+      preview_image <- as.integer(preview_image)[pixels]
+      dim(preview_image) <- c(length(rows), length(cols))
+      class(preview_image) <- "nativeRaster"
+      attr(preview_image, "channels") <- 4L
+    }
+    preview_plot <- ggplot2::ggplot() +
+    ggplot2::annotation_raster(preview_image, 0, 1, 0, 1, interpolate = TRUE) +
+    ggplot2::coord_fixed(ratio = image_ratio, xlim = c(0, 1), ylim = c(0, 1), expand = FALSE) +
+    ggplot2::theme_void() + ggplot2::theme(plot.margin = ggplot2::margin(0, 0, 0, 0))
+    print(preview_plot)
+  }
+}
+})
